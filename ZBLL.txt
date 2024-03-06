@@ -1,0 +1,13 @@
+http://algdb.net/puzzle/333/zbll
+
+- PI
+    - Diagonais resolvidas pra baixo:
+        - Nenhuma barra: 
+            - 25: Iguais dentro, opostos fora // R' U' R' D' R U' R' D R2 U R' U' R U R' U R // Tira atrás, emenda comm pra jogar pra longe, winter variation
+            - 31: Opostos dentro e fora // U R U R' U R U2 R' U' R U R' U R2 D R' U2 R D' R2 // De frente, sune + U', tira e pra longe, comm pra trazer de volta
+            - 32: Iguais dentro e fora // U' R U R' U R U' R' U F2 Rw U2 Rw' U' Rw' F Rw // De trás, tira e pra longe, finge que traz, F2, Rw U2 Rw', encaixa
+            - 36: Opostos dentro, iguais fora // R' F2 R U2 R U2 R' F2 U' R U' R' // Alterna R' F2 e R U2 com 1 2 2 1, trás pra perto e encaixa
+        - Barra certa na frente:
+            - 26: Nada do lado // R U' R' U' R U' R' U R U R' U R' F' R U R U' R' F // Pesca invertido, pra longe, pesca invertido, põe a quina, põe o meio
+            - 29: Barra do lado // U F U R U2 R' U2 R U R2 F' R U2 R U2 R' // De frente, F U, encaixa na direita, U2, põe no lugar, emenda no sledge, U2 e encaixa
+            - 34: Opostos do lado // U' R' U' R U' R' U R U' R' U R' D' R U R' D R2 // De trás, tira atrás e pra longe, finge que traz, R' U e emenda no comm
