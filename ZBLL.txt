@@ -14,4 +14,7 @@ http://algdb.net/puzzle/333/zbll
         - Barra oposta na frente:
             - 33: Nada do lado // U R' U' R U' B2 R' U2 R U2 Lw U2 Lw' // De frente, tira atrás e pra longe, B2, encaixa atrás, U2, Lw U2 Lw'
             - 28: Barra do lado // U2 R' U2 R U R' U' R U R2 F R U R U' R' F' R // U2, tira pra longe atrás e leva pra perto, sexy atrás, R2 F, encaixa atrás, sledge
-            - 30: Opostos do lado // U F U R U' R' U R U' R2 F' R U R U' R' // De frente, F U, encaixa imaginário, levanta e pra perto, emenda no sledge, encaixa 
+            - 30: Opostos do lado // U F U R U' R' U R U' R2 F' R U R U' R' // De frente, F U, encaixa imaginário, levanta e pra perto, emenda no sledge, encaixa
+        - Nada na frente com barra do lado:
+            - 35: Barra certa do lado // U R2 F2 R2 U' R' U' R' F2 R2 U R' F2 R // De frente, R2 F2 R2, traz perto e baixo duas vezes, F2 R2, encaixa meio e par c/ R F
+            - 27: Barra oposta do lado // U R U R' U R U' R' U R2 D R' U' R D' R' U' R' // De frente, tira e pra longe, finge que traz, comm pra trazer perto, encaixa
