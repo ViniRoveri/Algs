@@ -18,3 +18,10 @@ http://algdb.net/puzzle/333/zbll
         - Nada na frente com barra do lado:
             - 35: Barra certa do lado // U R2 F2 R2 U' R' U' R' F2 R2 U R' F2 R // De frente, R2 F2 R2, traz perto e baixo duas vezes, F2 R2, encaixa meio e par c/ R F
             - 27: Barra oposta do lado // U R U R' U R U' R' U R2 D R' U' R D' R' U' R' // De frente, tira e pra longe, finge que traz, comm pra trazer perto, encaixa
+    
+    - Diagonais resolvidas pra cima:
+        - Nenhuma barra: 
+            - 46: Iguais dentro, opostos fora // U2 R2 D' R U' R' D R U' R U R' U' R U R' U R // U2, R2 D', par da frente atrás, usa comm pra jogar pra longe, wv
+            - 42: Opostos dentro e fora // U2 R U2 R' U2 R' F R2 U' R' U2 R U2 R' U' F' // U2, tira com U2 e pra frente, R' F, par pra direita, U2, tira par com U2, U' F'
+            - 41: Iguais dentro e fora // R U R' U' R' F R2 U R' U' R U R' U' F' // Tira e pra frente, R' F, double sexy começando com R2, F' 
+            - 40: Opostos dentro, iguais fora // U' R' U' R U' R' U R U' R2 D' R U R' D R U R // De trás, tira atrás e p/ longe, finge q traz, comm pra perto, encaixa
