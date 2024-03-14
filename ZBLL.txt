@@ -26,6 +26,6 @@ http://algdb.net/puzzle/333/zbll
             - 41: Iguais dentro e fora // R U R' U' R' F R2 U R' U' R U R' U' F' // Tira e pra frente, R' F, double sexy começando com R2, F' 
             - 40: Opostos dentro, iguais fora // U' R' U' R U' R' U R U' R2 D' R U R' D R U R // De trás, tira atrás e p/ longe, finge q traz, comm pra perto, encaixa
         - Barra certa na frente:
-            - 39: Nada do lado // x' M' U2 R2 U R2 U R U L' U' R U2 R' // Sobe meio e vira pra cima, U2 R2, leva e encaixa par BR, encaixa par BL, wv
+            - 39: Nada do lado // x' M' U2 R2 U R2 U R U L' U' R U2 R' // Sobe meio e vira pra cima, U2 R2, U R2, encaixa par BR, encaixa par BL, wv
             - 44: Barra do lado // Rw' F' Rw U Rw U2 Rw' F2 U' R U R' U' R U' R' // Tira par FL e pra frente, Rw U2, Rw' F2, wv
             - 37: Opostos do lado // R' F R U R' U' R' F' R2 U' R' U R U' R' U2 R // Sludge com U, tira atrás e emenda no F', R2, par de trás longe, finge que trás, wv
