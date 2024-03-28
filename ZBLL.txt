@@ -37,7 +37,7 @@ http://algdb.net/puzzle/333/zbll
             - 45: Barra certa do lado // R B2 R' U2 R' U2 R B2 U R' U R // Intercala R B2 e R' U2 em 1 2 2 1, encaixa
             - 38: Barra oposta do lado // R U R D R' U R D' R2 U' R U R' U' R U' R' // Tira e usa comm pra jogar pra longe, wv
 
-    - Diagonais resolvidas pra baixo:
+    - Iguais na esquerda:
         - Nenhuma barra: 
             - 55: Iguais dentro, opostos fora // U2 R U R' U R U R' U' R U R D R' U R D' R2 // U2, tira e pra longe, pesca + U', R U R D, encaixa atrás, D' R2
             - 49: Opostos dentro e fora // R U D' R U R' D R2 U' R' U' R2 U2 R // R, U + D', tira o meio, D R2, meio pro lugar, encaixa da frente, R2, encaixa de traz
@@ -47,3 +47,7 @@ http://algdb.net/puzzle/333/zbll
             - 50: Nada do lado // U' R U R' F' R U R' U R U2 R' F U R U2 R' // De trás, tira + F', tira e pra longe, encaixa com U2 + F, pra longe e encaixa com U2
             - 58: Barra do lado // R2 D R' U2 R D' R2 U' R U R D R' U2 R D' R2 // R2 D, tira pra longe atrás, D' R2, traz perto, R U R, comm pra encaixar
             - 53: Opostos do lado // F U R' U' R2 U' R2 U2 R U2 R U R' F' // F U, tira atráse emenda R2, U' R2, volta o par de trás, R U2, tira + F'
+        - Barra oposta na frente:
+            - 57: Nada do lado // R' U' D R' U' R D' R2 U R U R2 U2 R' // R' e U' + D, tira atrás, D' R2, volta o meio e encaixa de trás, encaixa da frente
+            - 54: Barra do lado // U R' U' R' D' R U R' D R U2 R' D' R U2 R' D R2 // De frente, tira atrás e emenda comm pra voltar pro lugar, R U2, comm
+            - 52: Opostos do lado // U R U R' U' R U R2 D' R U' R' D R U' R U2 R' // De frente, tira e pra frente, R U, R2 D', pesca invertido, D R, U' e wv
