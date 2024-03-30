@@ -51,3 +51,6 @@ http://algdb.net/puzzle/333/zbll
             - 57: Nada do lado // R' U' D R' U' R D' R2 U R U R2 U2 R' // R' e U' + D, tira atrás, D' R2, volta o meio e encaixa de trás, encaixa da frente
             - 54: Barra do lado // U R' U' R' D' R U R' D R U2 R' D' R U2 R' D R2 // De frente, tira atrás e emenda comm pra voltar pro lugar, R U2, comm
             - 52: Opostos do lado // U R U R' U' R U R2 D' R U' R' D R U' R U2 R' // De frente, tira e pra frente, R U, R2 D', pesca invertido, D R, U' e wv
+        - Nada na frente com barra do lado:
+            - 51: Barra certa do lado // U2 R2 D R' U2 R D' R' U' R' U R2 D R' U2 R D' R2 // U2, R2 D, tira atrás pra longe, D', R' U' R', pra longe, comm pra encaixar
+            - 59: Barra oposta do lado // U' R' U' R U R' U' R2 D R' U R D' R' U R' U2 R // De trás, tira atrás e volta, R' U', R2 D, pesca invertido atrás, D' R', wv
