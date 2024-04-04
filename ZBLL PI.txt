@@ -60,8 +60,8 @@ Reconhecimento: FUL, FU, RUF, RU
         - 2: Barra e barra // R U2 R' U' R U' r' F' r U R' U2 r' F2 r // Sune inverso sem R' final, fat sledge, resolve direita, wv
         - 9: Opostos e opostos // U' R U R' U R U' R' U' R' F' R U2 R U2 R' F // De trás, tira e pra longe, R U' R', trás pra frente, wv
     - Nada e Nada:
-        - 11: UFR na frente //
-        - 3: UFR do lado //
+        - 11: UFR na frente // U R2 D' R U' R' D R U R' D' R U R' D R U R U' R' U' R // De frente, R2 D', pesca inverso, D + pesca, D' + pesca, D R U R, termina
+        - 3: UFR do lado // U2 R' U' R' D' R U R' D R' U R' U R U2 R' // U2, tira atrás, emenda no comm pra trazer, emenda no sune na frente
     - Barra e Nada:
         - 10: UFR do lado //
         - 5: Sem UFR //
