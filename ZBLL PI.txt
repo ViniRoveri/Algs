@@ -63,8 +63,8 @@ Reconhecimento: FUL, FU, RUF, RU
         - 11: UFR na frente // U R2 D' R U' R' D R U R' D' R U R' D R U R U' R' U' R // De frente, R2 D', pesca inverso, D + pesca, D' + pesca, D R U R, termina
         - 3: UFR do lado // U2 R' U' R' D' R U R' D R' U R' U R U2 R' // U2, tira atrás, emenda no comm pra trazer, emenda no sune na frente
     - Barra e Nada:
-        - 10: UFR do lado //
-        - 5: Sem UFR //
+        - 10: UFR do lado // U' F U' R U' R' U R U R' U2 R U2 R' U F' // De trás, F U', pesca invertido + U, pesca + U2, resolve F2L, encaixa
+        - 5: Sem UFR // R U R' F' U' R U2 R2 U' R U' R' U2 F R2 U' R' // Tira o par + F' U', tira pra longe com R2 no fim, traz perto e encaixa, U2 F, encaixa
     - Opostos e Nada:
         - 6: UFR do lado //
         - 4: Sem UFR //
