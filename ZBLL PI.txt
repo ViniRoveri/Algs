@@ -66,8 +66,8 @@ Reconhecimento: FUL, FU, RUF, RU
         - 10: UFR do lado // U' F U' R U' R' U R U R' U2 R U2 R' U F' // De trás, F U', pesca invertido + U, pesca + U2, resolve F2L, encaixa
         - 5: Sem UFR // R U R' F' U' R U2 R2 U' R U' R' U2 F R2 U' R' // Tira o par + F' U', tira pra longe com R2 no fim, traz perto e encaixa, U2 F, encaixa
     - Opostos e Nada:
-        - 6: UFR do lado //
-        - 4: Sem UFR //
+        - 6: UFR do lado // F R U R' U' R' F' R U2 R' U' R2 U' R2 U2 R // F, sexy, R' F' R, U2, tira atrás e emenda encaixar frente, emanda encaixar atrás
+        - 4: Sem UFR // U2 R U R D R' U' R D' R U' R U' R' U2 R // U2, tira frente e emenda comm pra voltar, emenda sune atrás
     - Nada e Barra:
         - 7: UFR na frente //
         - 1: Sem UFR //
