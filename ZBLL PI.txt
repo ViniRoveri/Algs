@@ -72,5 +72,5 @@ Reconhecimento: FUL, FU, RUF, RU
         - 7: UFR na frente // R2 F R U R U' R' F' R U' R' U' R U R' U R // R2 F, R U R, resolve par FL, wv
         - 1: Sem UFR // U' R U R' U R U2 R2 F' r U R U' r' F // De trás, sune terminando com R2 pra emendar na OLL T
     - Nada e Opostos:
-        - 12: UFR na frente //
-        - 8: Sem UFR //
+        - 12: UFR na frente // R' U' F' R U R' U' R' F R2 U2 R' U2 R // R' U' F', sexy + sludge terminando com R2, wv
+        - 8: Sem UFR // U F U R U' R' U R U2 R' U' R U R' F' // De frente, F U, finge que traz, encaixa de longe, U', tira + F'
