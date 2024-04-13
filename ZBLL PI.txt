@@ -80,11 +80,11 @@ Reconhecimento: FUL, FU, RUF, RU
         - 23: Barra e barra // R U R D R' U' R D' R U2 R U R' U R // Tira, emenda no comm pra voltar, emenda no sune reverso atrás
         - 15: Opostos e opostos // R' U' R U' R2 D' R U R' D R2 U' R' U2 R // Tira atrás e pra longe, comm pra levar perto, wv
     - Nada e Nada:
-        - 21: UFR na frente // 
-        - 14: UFR do lado // 
+        - 21: UFR na frente // U' R U2 R' U R' D' R U2 R' D R2 U' R' // De trás, tira pra longe, leva longe, abaixa a quina, comm com U2, emenda no encaixe
+        - 14: UFR do lado // U' R2 D R' U2 R D' R2 U' R2 D R' U' R D' R2 // De trás, R2 D, tira pra longe atrás, D' R2, U', comm com R2 pra encaixar
     - Barra na frente:
-        - 19: UFR do lado // 
-        - 24: Sem UFR // 
+        - 19: UFR do lado // U' F U R U2 R' U R U R' F' R U2 R' U' R U' R' // De trás, F U, encaixa de longe + U, tira + F, sune inverso
+        - 24: Sem UFR // R U' r' F R' F r U r' F r // Tira pra trás, r' F, sludge com r no final, encaixa
     - Opostos na frente:
         - 13: UFR do lado // 
         - 20: Sem UFR // 
