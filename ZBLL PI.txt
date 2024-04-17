@@ -89,7 +89,7 @@ Reconhecimento: FUL, FU, RUF, RU
         - 13: UFR do lado // U R2 D' R U2 R' D R2 U R2 D' R U R' D R2 // De frente, R2 D', comm mandando par da frente longe, wv atrás
         - 20: Sem UFR // U2 R U2 R' U' R U r' F2 r U2 R' U' r' F r // U2, tira pra longe e trás perto, R U, r' F2 r, encaixa par FR, termina
     - Barra do lado:
-        - 16: UFR na frente // R U R' U R2 D R' U' R D' R2 U R U2 R' // Tira e pra longe, R2 D, pesca atrás, D R2, wv
+        - 16: UFR na frente // R U R' U R2 D R' U' R D' R2 U R U2 R' // Tira e pra longe, comm pra trazer perto, wv
         - 17: Sem UFR // R' U' R U' R' U2 R U' R' U' R U' R2 D' R U2 R' D R2 // Sune atrás, U', tira atrás e pra longe, comm pra terminar
     - Opostos do lado:
         - 18: UFR na frente // U R U2 R' U' R U2 R' U2 R U' R2 D' R U' R' D R // De frente, tira p/ longe e trás, R U2 R' U2, encaixa meio c/ R2, D', encaixa, D R'
