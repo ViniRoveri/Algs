@@ -92,5 +92,5 @@ Reconhecimento: FUL, FU, RUF, RU
         - 16: UFR na frente // R U R' U R2 D R' U' R D' R2 U R U2 R' // Tira e pra longe, R2 D, pesca atrás, D R2, wv
         - 17: Sem UFR // R' U' R U' R' U2 R U' R' U' R U' R2 D' R U2 R' D R2 // Sune atrás, U', tira atrás e pra longe, comm pra terminar
     - Opostos do lado:
-        - 18: UFR na frente // 
-        - 22: Sem UFR // 
+        - 18: UFR na frente // U R U2 R' U' R U2 R' U2 R U' R2 D' R U' R' D R // De frente, tira p/ longe e trás, R U2 R' U2, encaixa meio c/ R2, D', encaixa, D R'
+        - 22: Sem UFR // R' U' R' D' R U R' D R' U2 R' U' R U' R' // Tira atrás e comm pra voltar, emenda sune invertido na frente
