@@ -28,7 +28,7 @@ Reconhecimento: FUL, FU, RUF, RU
     - Barra certa na frente:
         - 39: Nada do lado // x' M' U2 R2 U R2 U R U L' U' R U2 R' // Sobe meio e vira pra cima, U2 R2, U R2, encaixa par BR, encaixa par BL, wv
         - 44: Barra do lado // Rw' F' Rw U Rw U2 Rw' F2 U' R U R' U' R U' R' // Tira par FL e pra frente, Rw U2, Rw' F2, wv
-        - 37: Opostos do lado // R' F R U R' U' R' F' R2 U' R' U R U' R' U2 R // Sludge com U, tira atrás e emenda no F', R2, par de trás longe, finge que trás, wv
+        - 37: Opostos do lado // R' F R U R' U' R' F' R2 U' R' U R U' R' U2 R // Sludge + U, tira atrás e emenda no F', R2, par de trás longe, finge que trás, wv
     - Barra oposta na frente:
         - 47: Nada do lado // U R U R' U R U' R' U R U' R D R' U' R D' R2 // De frente, tira e pra longe, finge que traz, R' U e emenda no comm pra encaixar
         - 48: Barra do lado // U' R U R' U F2 R U2 R' U2 R' F2 R // De trás, tira e pra longe, F2, encaixa com U2, U2, R' F2 R
