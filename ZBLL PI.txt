@@ -97,10 +97,10 @@ Reconhecimento: FUL, FU, RUF, RU
 
 - Iguais na esquerda:
     - Nenhuma barra: 
-        - 72: Iguais dentro, opostos fora // 
-        - 66: Opostos dentro e fora // 
-        - 61: Iguais dentro e fora // 
-        - 71: Opostos dentro, iguais fora // 
+        - 72: Iguais dentro, opostos fora // R U R2 U' R2 U' R2 U2 R2 U' R' U R U2 R' // Tira, R2 U' duas vezes, R2 U2, encaixa imaginário com R2, wv
+        - 66: Opostos dentro e fora // U2 R' U R U2 R' U' R U2 R' U' R U2 R' U2 R // U2, pesca invertido atrás, U2, pesca atrás, forma par, wv
+        - 61: Iguais dentro e fora // 	R U2 R2 U' R2 U' R2 U2 R // OLL padrão
+        - 71: Opostos dentro, iguais fora // U R U R' U R U2 R' U R U R' U R U2 R' // De frente, sune + U, sune
     - Barra certa na frente:
         - 65: Nada do lado // 
         - 67: Barra do lado // 
