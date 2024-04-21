@@ -94,3 +94,21 @@ Reconhecimento: FUL, FU, RUF, RU
     - Opostos do lado:
         - 18: UFR na frente // U R U2 R' U' R U2 R' U2 R U' R2 D' R U' R' D R // De frente, tira p/ longe e trás, R U2 R' U2, encaixa meio c/ R2, D', encaixa, D R'
         - 22: Sem UFR // R' U' R' D' R U R' D R' U2 R' U' R U' R' // Tira atrás e comm pra voltar, emenda sune invertido na frente
+
+- Iguais na esquerda:
+    - Nenhuma barra: 
+        - 72: Iguais dentro, opostos fora // 
+        - 66: Opostos dentro e fora // 
+        - 61: Iguais dentro e fora // 
+        - 71: Opostos dentro, iguais fora // 
+    - Barra certa na frente:
+        - 65: Nada do lado // 
+        - 67: Barra do lado // 
+        - 70: Opostos do lado // 
+    - Barra oposta na frente:
+        - 68: Nada do lado // 
+        - 69: Barra do lado // 
+        - 63: Opostos do lado // 
+    - Nada na frente com barra do lado:
+        - 64: Barra certa do lado // 
+        - 62: Barra oposta do lado // 
