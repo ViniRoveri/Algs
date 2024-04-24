@@ -98,17 +98,17 @@ Reconhecimento: FUL, FU, RUF, RU
 - Iguais na esquerda:
     - Nenhuma barra: 
         - 72: Iguais dentro, opostos fora // R U R2 U' R2 U' R2 U2 R2 U' R' U R U2 R' // Tira, R2 U' duas vezes, R2 U2, encaixa imaginário com R2, wv
-        - 66: Opostos dentro e fora // U2 R' U R U2 R' U' R U2 R' U' R U2 R' U2 R // U2, pesca invertido atrás, U2, pesca atrás, forma par, wv
+        - 66: Opostos dentro e fora // U2 R' U R U2 R' U' R U2 R' U' R U2 R' U2 R // U2, pesca invertido atrás + U2, pesca atrás + U2, pesca atrás + U2, wv
         - 61: Iguais dentro e fora // 	R U2 R2 U' R2 U' R2 U2 R // OLL padrão
         - 71: Opostos dentro, iguais fora // U R U R' U R U2 R' U R U R' U R U2 R' // U + sune, U + sune
     - Barra certa na frente:
-        - 65: Nada do lado // U2 R U' R' U2 R U R' U2 R U R' U2 R U2 R' // U2, pesca invertido + U2, pesca + U2, faz o par, wv
+        - 65: Nada do lado // U2 R U' R' U2 R U R' U2 R U R' U2 R U2 R' // U2, pesca invertido + U2, pesca + U2, pesca + U2, wv
         - 67: Barra do lado // U R U2 R' U' R U' R2 U' R U' R' U2 R // De frente, sune invertido, emenda no sune atrás
         - 70: Opostos do lado // R U R' U' R' U2 R U R' U R2 U2 R' // Tira e trás pra frente, sune invertido atrás, emenda no wv
     - Barra oposta na frente:
-        - 68: Nada do lado // 
-        - 69: Barra do lado // 
-        - 63: Opostos do lado // 
+        - 68: Nada do lado // R' U2 R2 U R2 U R2 U2 R' // Tira pra longe atrás, emenda tirar frente, emenda encaixar atrás, emenda encaixar frente
+        - 69: Barra do lado // R U R' U R U2 R' U' R U R' U R U2 R' // Sune + U', sune
+        - 63: Opostos do lado // U' R U2 R' U2 R U' R' U2 R U' R' U2 R U R' // De trás, tira pra longe + U2, pesca invertido + U2, pesca invertido + U2, pesca
     - Nada na frente com barra do lado:
         - 64: Barra certa do lado // 
         - 62: Barra oposta do lado // 
