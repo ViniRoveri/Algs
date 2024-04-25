@@ -95,7 +95,7 @@ Reconhecimento: FUL, FU, RUF, RU
         - 18: UFR na frente // U R U2 R' U' R U2 R' U2 R U' R2 D' R U' R' D R // De frente, tira p/ longe e trás, R U2 R' U2, encaixa meio c/ R2, D', encaixa, D R'
         - 22: Sem UFR // R' U' R' D' R U R' D R' U2 R' U' R U' R' // Tira atrás, emenda comm pra voltar, emenda sune invertido na frente
 
-- Iguais na esquerda:
+- Iguais na direita:
     - Nenhuma barra: 
         - 72: Iguais dentro, opostos fora // R U R2 U' R2 U' R2 U2 R2 U' R' U R U2 R' // Tira, R2 U' duas vezes, R2 U2, encaixa imaginário com R2, wv
         - 66: Opostos dentro e fora // U2 R' U R U2 R' U' R U2 R' U' R U2 R' U2 R // U2, pesca invertido atrás + U2, pesca atrás + U2, pesca atrás + U2, wv
@@ -110,5 +110,5 @@ Reconhecimento: FUL, FU, RUF, RU
         - 69: Barra do lado // R U R' U R U2 R' U' R U R' U R U2 R' // Sune + U', sune
         - 63: Opostos do lado // U' R U2 R' U2 R U' R' U2 R U' R' U2 R U R' // De trás, tira pra longe + U2, pesca invertido + U2, pesca invertido + U2, pesca
     - Nada na frente com barra do lado:
-        - 64: Barra certa do lado // 
-        - 62: Barra oposta do lado // 
+        - 64: Barra certa do lado // U R' U2 R U2 R' U R U2 R' U R U2 R' U' R // De frente, tira atrás p/ longe + U2, (pesca invertido atrás + U2) duplo, pesca atrás
+        - 62: Barra oposta do lado // U R U R' U R U2 R2 U2 R U R' U R // De frente, sune, emenda sune invertido atrás
