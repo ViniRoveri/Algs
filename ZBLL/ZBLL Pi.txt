@@ -1,5 +1,4 @@
 http://algdb.net/puzzle/333/zbll-zbllpi
-Reconhecimento: FUL, FU, RUF, RU
 
 - Diagonais resolvidas pra baixo:
     - Nenhuma barra: 
