@@ -4,12 +4,12 @@ http://algdb.net/puzzle/333/zbll-zblll
     - Nenhuma barra: 
         - 1: Iguais e iguais // R2 D' R U2 R' D R U2 R2 U2 R' U' R U' R' // R2 D', comm mandando frente pra longe, emenda sune invertido na frente
         - 12: Opostos e opostos // U2 R U' R2 F2 R U2 R U2 R' F2 U2 R U' R' // U2, pesca invertido com fim R2 + F2, R U2 duas vezes, R' F2, U2 + encaixa
-        - 6: Iguais e opostos // U R' U2 R' D' R U2 R' D R2 // De frente, tira atrás pra longe, emenda no comm
-        - 5: Opostos e iguais // U R' U2 R U2 R' U' R2 D R' U2 R D' R2 U2 R // De frente, faz atrás: tira p/ longe + U2, sexy c/ fim R2, D, tira p/ longe, D', encaixa
+        - 6: Iguais e opostos // U' R' U2 R' D' R U2 R' D R2 // De frente, tira atrás pra longe, emenda no comm
+        - 5: Opostos e iguais // U' R' U2 R U2 R' U' R2 D R' U2 R D' R2 U2 R // De frente, faz atrás: tira p/ longe + U2, sexy c/ fim R2, D, tira p/ longe, D', encaixa
     - Barra na frente:
-        - 2: Nada do lado // 
-        - 4: Barra do lado // 
-        - 8: Opostos do lado // 
+        - 2: Nada do lado // R D R' U2 R D' R' U' R' U2 R U' R' U' R // R D R', U2, R D' R', resolve f2l
+        - 4: Barra do lado // U' R' U2 R' D' Rw U2 Rw' D R2 // De frente, tira atrás pra longe, emenda comm usando Rw no trazer
+        - 8: Opostos do lado // R U2 R' F U2 F' U' Lw D F' D' F2 Lw' // Tira pra longe, F U2 F', U' + forma par com Lw, encaixa esquerda c/ D F D', F2 + Lw'
     - Opostos na frente:
         - 9: Nada do lado // 
         - 7: Barra do lado // 
