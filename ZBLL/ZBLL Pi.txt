@@ -103,7 +103,7 @@ http://algdb.net/puzzle/333/zbll-zbllpi
     - Barra certa na frente:
         - 65: Nada do lado // U2 R U' R' U2 R U R' U2 R U R' U2 R U2 R' // U2, pesca invertido + U2, pesca + U2, pesca + U2, wv
         - 67: Barra do lado // U R U2 R' U' R U' R2 U' R U' R' U2 R // De frente, sune invertido, emenda no sune atrás
-        - 70: Opostos do lado // R U R' U' R' U2 R U R' U R2 U2 R' // Tira e trás pra frente, sune invertido atrás, emenda no wv
+        - 70: Opostos do lado // R U R' U' R' U2 R U R' U R2 U2 R' // Tira e trás pra frente, sune invertido atrás
     - Barra oposta na frente:
         - 68: Nada do lado // R' U2 R2 U R2 U R2 U2 R' // Tira pra longe atrás, emenda tirar frente, emenda encaixar atrás, emenda encaixar frente
         - 69: Barra do lado // R U R' U R U2 R' U' R U R' U R U2 R' // Sune + U', sune

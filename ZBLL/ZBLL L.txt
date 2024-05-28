@@ -11,9 +11,9 @@ http://algdb.net/puzzle/333/zbll-zblll
         - 4: Barra do lado // U' R' U2 R' D' Rw U2 Rw' D R2 // De frente, tira atrás pra longe, emenda comm usando Rw no trazer
         - 8: Opostos do lado // R U2 R' F U2 F' U' Lw D F' D' F2 Lw' // Tira pra longe, F U2 F', U' + forma par com Lw, encaixa esquerda c/ D F D', F2 + Lw'
     - Opostos na frente:
-        - 9: Nada do lado // 
-        - 7: Barra do lado // 
-        - 10: Opostos do lado // 
+        - 9: Nada do lado // U' R' U2 R' D' R' F2 R2 U2 R2 F2 R D R2 // De frente, tira pra longe atrás, emenda R' D' R', F2 + tira pra longe com R2 + F2, R D R2
+        - 7: Barra do lado // U' R U R' U2 R U R' U2 y' R' U2 R U' R' U' R // De frente, tira + U2, tira + U2, rotaciona pro par ficar em RB, resolve f2l
+        - 10: Opostos do lado // U' R' U R U' R' U F' R U2 R' U2 R' F R2 // De frente, pesca invertido atrás + U', R' U F', tira pra longe + U2, sludge com fim R2
     - Nada na frente com barra do lado:
-        - 3: Barra do lado // 
-        - 11: Opostos do lado // 
+        - 3: Barra do lado // U2 R' U2 R U R2 D' R U R' D R2 // U2, tira atrás pra longe e leva perto, wv
+        - 11: Opostos do lado // U' R' U R2 D R' U R D' R' U2 R' U R U R' U' R // De frente, faz atrás: pesca inv., emenda R2 D, pesca inv., D' R', U2 + resolve f2l
