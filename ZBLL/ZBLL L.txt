@@ -17,3 +17,21 @@ http://algdb.net/puzzle/333/zbll-zblll
     - Nada na frente com barra do lado:
         - 3: Barra do lado // U2 R' U2 R U R2 D' R U R' D R2 // U2, tira atrás pra longe e leva perto, wv
         - 11: Opostos do lado // U' R' U R2 D R' U R D' R' U2 R' U R U R' U' R // De frente, faz atrás: pesca inv., emenda R2 D, pesca inv., D' R', U2 + resolve f2l
+
+- Iguais em cima e adjacente na frente:
+    - Nenhuma barra: 
+        - 37: Iguais e iguais // U R U R' U R U2 R D R' U2 R D' R' U2 R' // De trás, sune, emenda comm mandando de trás pra longe e trazendo
+        - 48: Opostos e opostos // U' L' U L2 F2 L' U2 L' U2 L F2 U2 L' U L // De frente, faz no L: pesca invertido, emenda L2 F2, L' U2 duas vezes, L F2, termina
+        - 42: Iguais e opostos // R U2 R' U2 R U R2 D' R U2 R' D R2 U2 R' // Tira pra longe e traz, pesca emenda no R2 D', tira pra longe + D, encaixa com R2
+        - 41: Opostos e iguais // R U2 R D R' U2 R D' R2 // Tira pra longe, comm pra encaixar
+    - Barra na frente:
+        - 38: Nada do lado // U R U2 R' U' R2 D R' U' R D' R2 // De trás, tira pra longe e traz, wv
+        - 40: Barra do lado // R U2 R D Rw' U2 Rw D' R2 // Tira pra longe, comm pra encaixar usando Rw no trazer
+        - 44: Opostos do lado // U2 R U R' F' U' R' U2 R U F R' U R2 U2 R' // U2, tira + F' U', tira pra longe atrás + U F, encaixa atrás, emenda encaixar frente
+    - Opostos na frente:
+        - 45: Nada do lado // R U' R2 D' R U' R' D R U2 R U' R' U' R U R' // Pesca invertido, emenda no R2 D', pesca invertido, D R U2, resolve f2l
+        - 43: Barra do lado // U F R U R' U' R' F' U' R U R U' R' U' R' U R // De trás, F +sexy, R' F', tira atrás, encaixa frente, encaixa atrás
+        - 46: Opostos do lado // U R' F' R U2 R U2 R' F U' R U R' U' R U' R' // De trás, tira bloco com R' F' R + U2, encaixa de longe + F, wv
+    - Nada na frente com barra do lado:
+        - 39: Barra do lado // U' R' D' R U2 R' D R U R U2 R' U R U R' // De frente, R' D' R + U2, R' D R + U, resolve f2l
+        - 47: Opostos do lado // R' U R' D' R U R' U2 R U R' U D R U' R // Pesca invertido atrás, emenda R' D', sexy + U2, sexy + U D, termina
