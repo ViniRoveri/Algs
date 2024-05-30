@@ -30,8 +30,26 @@ http://algdb.net/puzzle/333/zbll-zblll
         - 44: Opostos do lado // U2 R U R' F' U' R' U2 R U F R' U R2 U2 R' // U2, tira + F' U', tira pra longe atrás + U F, encaixa atrás, emenda encaixar frente
     - Opostos na frente:
         - 45: Nada do lado // R U' R2 D' R U' R' D R U2 R U' R' U' R U R' // Pesca invertido, emenda no R2 D', pesca invertido, D R U2, resolve f2l
-        - 43: Barra do lado // U F R U R' U' R' F' U' R U R U' R' U' R' U R // De trás, F +sexy, R' F', tira atrás, encaixa frente, encaixa atrás
+        - 43: Barra do lado // U F R U R' U' R' F' U' R U R U' R' U' R' U R // De trás, F + sexy, R' F', tira atrás, encaixa frente, encaixa atrás
         - 46: Opostos do lado // U R' F' R U2 R U2 R' F U' R U R' U' R U' R' // De trás, tira bloco com R' F' R + U2, encaixa de longe + F, wv
     - Nada na frente com barra do lado:
         - 39: Barra do lado // U' R' D' R U2 R' D R U R U2 R' U R U R' // De frente, R' D' R + U2, R' D R + U, resolve f2l
         - 47: Opostos do lado // R' U R' D' R U R' U2 R U R' U D R U' R // Pesca invertido atrás, emenda R' D', sexy + U2, sexy + U D, termina
+
+- Adjacentes em cima e igual na frente:
+    - Nenhuma barra: 
+        - 60: Iguais e iguais // U' R U D' R U R' D R2 U' R U R2 U2 R' // De frente, R, U + D', pesca + D, R2, encaixa atrás, emenda encaixar frente
+        - 49: Opostos e opostos // U R' F2 R2 U' Rw' F M' R' F2 R // De trás, R' F2 R2, par pra trás, volta com Rw' F, levanta o meio com M', termina
+        - 53: Iguais e opostos // U' Rw U M U R' U' Rw U' Rw' F U R U' R' F' // De frente, fat sune com M no começo, OLL padrão
+        - 54: Opostos e iguais // F R U R' U' F' Rw U Rw' U R U' M' U' r' // F + sexy + F', fat sune com M no final
+    - Barra na frente:
+        - 57: Nada do lado // Rw U2 R2 F R F' R U2 Rw' // Tira pra longe com começo Rw, emenda sludge, encaixa de longe com fim Rw
+        - 58: Barra do lado // U' F R U R' U' R U' R' U2 R U2 R' U' F' // De frente, F + sexy, encaixa + U2, tira pra longe, termina
+        - 55: Opostos do lado // R U2 R' U' F' R U R' U R U2 R' F R U' R' // Tira pra longe, U' F', sune + F, encaixa
+    - Opostos na frente:
+        - 50: Nada do lado // U' R U2 R' U' L' U2 R U R' L U L' U L // De frente, tira pra longe e traz perto, tira pra longe no L sem abaixar, pesca + L, termina
+        - 56: Barra do lado // U' R U' R' U R U R' U R U' R2 D' R U R' D R // De frente, pesca invertido + U, pesca + U, encaixa meio, emenda R2 D', pesca, D R
+        - 52: Opostos do lado // U' Rw U2 Rw2 R F R' F' Rw2 U2 Rw' // De frente, tira pra longe com Rw e fim Rw2, R F R' F', Rw2 + termina
+    - Nada na frente com barra do lado:
+        - 59: Barra do lado // U R U R' L' U2 R U R' U2 L // De trás, pesca, manda par L pra longe sem abaixar, pesca, encaixa par L
+        - 51: Opostos do lado // U2 L' U2 L U R U2 L' U' L R' U' R U' R' // U2, tira par L pra longe e traz perto, R U2, pesca no L + R', termina
