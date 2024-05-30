@@ -53,3 +53,21 @@ http://algdb.net/puzzle/333/zbll-zblll
     - Nada na frente com barra do lado:
         - 59: Barra do lado // U R U R' L' U2 R U R' U2 L // De trás, pesca, manda par L pra longe sem abaixar, pesca, encaixa par L
         - 51: Opostos do lado // U2 L' U2 L U R U2 L' U' L R' U' R U' R' // U2, tira par L pra longe e traz perto, R U2, pesca no L + R', termina
+
+- Adjacentes em cima e oposto na frente:
+    - Nenhuma barra: 
+        - 69: Iguais e iguais // R U2 R' U' R U' R' U2 R U R' U R U2 R' // Sune invertido + U2, sune
+        - 70: Opostos e opostos // R U R' U R U2 R' U2 R U2 R' U' R U' R' // Sune + U2, sune invertido
+        - 66: Iguais e opostos // U R' U2 R U2 R U2 R U' R' U R' U2 R2 U2 R // U, tira atrás pra longe + U2, tira pra longe + pesca inv., U R', encaixa, emenda atrás
+        - 61: Opostos e iguais // U2 R U2 R' U2 R' U2 R' U R U' R U2 R2 U2 R' // U2, tira pra longe + U2, tira atr pra longe + pesca inv., U' R, encaixa atr, emenda
+    - Barra na frente:
+        - 68: Nada do lado // U2 R U2 R' U' R U' R2 U2 R U R' U' R U R' U R // U2, sune invertido, emenda tirar atrás pra longe, wv
+        - 72: Barra do lado // U' R U' R' L' U2 L U L' U L R U2 R' // De frente, pesca invertido, sune invertido na esquerda, wv
+        - 67: Opostos do lado // U' R' U' R U' R' U2 R U' R U R' U R U2 R' // De frente, sune atrás + U', sune
+    - Opostos na frente:
+        - 65: Nada do lado // U' R' U2 R U R' U R U' R U2 R' U' R U' R' // De frente, sune invertido atrás + U', sune invertido
+        - 63: Barra do lado // R U R' U R U2 R' U R' U' R U' R' U2 R // Sune + U, sune atrás
+        - 71: Opostos do lado // U2 R U R' U R U' R' U R U' R' U R U2 R' // U2, tira e pra longe, finge que traz 2 vezes, wv
+    - Nada na frente com barra do lado:
+        - 64: Barra do lado // U R' U2 R U R' U R2 U2 R' U' R U R' U' R U' R' // De trás, sune invertido atrás, emenda tirar pra longe, wv
+        - 62: Opostos do lado // R U2 R' U' R U' R' U R' U2 R U R' U R // Sune invertido + U, sune invertido atrás
