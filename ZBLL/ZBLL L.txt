@@ -4,7 +4,7 @@ http://algdb.net/puzzle/333/zbll-zblll
     - Nenhuma barra: 
         - 1: Iguais e iguais // R2 D' R U2 R' D R U2 R2 U2 R' U' R U' R' // R2 D', comm mandando frente pra longe, emenda sune invertido na frente
         - 12: Opostos e opostos // U2 R U' R2 F2 R U2 R U2 R' F2 U2 R U' R' // U2, pesca invertido com fim R2 + F2, R U2 duas vezes, R' F2, U2 + encaixa
-        - 6: Iguais e opostos // U' R' U2 R' D' R U2 R' D R2 // De frente, tira atrás pra longe, emenda no comm
+        - 6: Iguais e opostos // U' R' U2 R' D' R U2 R' D R2 // De frente, tira atrás pra longe, emenda no comm pra encaixar
         - 5: Opostos e iguais // U' R' U2 R U2 R' U' R2 D R' U2 R D' R2 U2 R // De frente, faz atrás: tira p/ longe + U2, sexy c/ fim R2, D, tira p/ longe, D', encaixa
     - Barra na frente:
         - 2: Nada do lado // R D R' U2 R D' R' U' R' U2 R U' R' U' R // R D R', U2, R D' R', resolve f2l
@@ -83,9 +83,27 @@ http://algdb.net/puzzle/333/zbll-zblll
         - 18: Barra do lado // F R' F' Rw U R U' Rw' // Sledge com fim Rw, U + encaixa
         - 13: Opostos do lado // U' R' F2 R U2 R U2 R' F2 R U' R' U R U2 R' // De frente, alterna R' F2 e R U2 com 1 2 2 1, pesca invertido + U, wv
     - Opostos na frente:
-        - 15: Nada do lado // U' L U' R U R' L' U2 R U' R' U' R U' R' // L U', pesca + L', U2, pesca invertido + termina
+        - 15: Nada do lado // U' L U' R U R' L' U2 R U' R' U' R U' R' // Tira par BL pra trás, pesca + L', U2, pesca invertido + termina
         - 24: Barra do lado // U R U R' F' U' Rw' F2 Rw U F // De trás, pesca + F' U', sludge com Rw e F2, termina
         - 17: Opostos do lado // U' R' U' R U' R' U R U' R' U R U' R2 D' R U2 R' D R2 // De frente, atrás: tira + U', 2x pesca invertido + U', comm com R2 p/ encaixar
     - Nada na frente com barra do lado:
         - 14: Barra do lado // R U' R' U R U' R' U' R U R2 D' R U' R' D R // Pesca invertido + U, pesca invertido + U', pesca emenda no R2 D', encaixa + D R
         - 21: Opostos do lado // R U R D R' U2 R D' R' U' R' U R U R' // R U R D, encaixa de longe atrás + D, R' + meio pra esquerda + R', termina
+
+- Opostos em cima e adjacente na frente:
+    - Nenhuma barra: 
+        - 32: Iguais e iguais // R' U' R F U' R' U' R U F' R' U2 R // Tira atrás, F U', pesca atrás, volta par frente, wv
+        - 31: Opostos e opostos // L' R' U R U' L R' U' R U' R' U R // L', quebra par atrás, volta par esquerda, resolve f2l atrás
+        - 28: Iguais e opostos // U F' R U2 R' U2 R' F U2 R U R U' R2 U2 R // De trás, F' + tira pra longe, U2, sludge com U2 no meio, encaixa frente, emenda atrás 
+        - 34: Opostos e iguais // R U R' U R' D' R U2 R' D R2 U' R' U R U' R' // Tira e pra longe, R' D' R, U2, R' D, R2 pra emendar no f2l
+    - Barra na frente:
+        - 27: Nada do lado // U F U R U2 R' U R2 D R' U R D' R2 F' // De trás, F U, encaixa de longe, U, comm com R2 pra voltar par pro lugar, F'
+        - 29: Barra do lado // U F' Rw U R' U' Rw' F R // De trás, F', tira com começo Rw, U', sludge com começo Rw'
+        - 36: Opostos do lado // U2 F R U' R' U' R U2 R' U' F' // U2, F + encaixa + U', tira pra longe, termina
+    - Opostos na frente:
+        - 35: Nada do lado // U' R' U' R' D' R U2 R' D R U R U' R' U' R // De frente, R' U' R' D', encaixa de longe + D, R + meio pra esquerda + R, termina
+        - 25: Barra do lado // U2 R' U' R U R' F2 R U2 R' U2 R' F2 R2 // U2, tira atrás e volta, R' F2, tira pra longe + U2, R' F2, termina
+        - 30: Opostos do lado // R U R' U R U' R' U R U' R' U R2 D R' U2 R D' R2 // Tira e pra longe, encaixa + U, encaixa + U, comm pra encaixar no lugar
+    - Nada na frente com barra do lado:
+        - 33: Barra do lado // U F' R U2 R' U2 R' F R U R U' R' // De trás, F', tira pra longe e traz, sludge, termina
+        - 26: Opostos do lado // L' U R' U' R L U2 R' U R U R' U R // Tira par L pra trás, tira atrás + L, U2, pesca invertido atrás + termina
