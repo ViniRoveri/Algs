@@ -83,7 +83,7 @@ http://algdb.net/puzzle/333/zbll-zblll
         - 18: Barra do lado // F R' F' Rw U R U' Rw' // Sledge com fim Rw, U + encaixa
         - 13: Opostos do lado // U' R' F2 R U2 R U2 R' F2 R U' R' U R U2 R' // De frente, alterna R' F2 e R U2 com 1 2 2 1, pesca invertido + U, wv
     - Opostos na frente:
-        - 15: Nada do lado // U' L U' R U R' L' U2 R U' R' U' R U' R' // Tira par BL pra trás, pesca + L', U2, pesca invertido + termina
+        - 15: Nada do lado // U' L U' R U R' L' U2 R U' R' U' R U' R' // De frente, tira par BL pra trás, pesca + L', U2, pesca invertido + termina
         - 24: Barra do lado // U R U R' F' U' Rw' F2 Rw U F // De trás, pesca + F' U', sludge com Rw e F2, termina
         - 17: Opostos do lado // U' R' U' R U' R' U R U' R' U R U' R2 D' R U2 R' D R2 // De frente, atrás: tira + U', 2x pesca invertido + U', comm com R2 p/ encaixar
     - Nada na frente com barra do lado:
