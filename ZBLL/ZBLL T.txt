@@ -2,18 +2,36 @@ http://algdb.net/puzzle/333/zbll-zbllt
 
 - Opostos em cima e iguais embaixo:
     - Nenhuma barra: 
-        - 28: Iguais dentro, opostos fora // U' R' U' R' D' R U R' D R U2 R U R' U R // Da esq., tira atrás, emenda comm pra voltar, emenda sune inverso atrás
-        - 34: Opostos dentro e fora // R U R' U R U' R' F' U' L' U2 L U F // Tira e pra longe, encaixa + F' U', tira L pra longe, termina
-        - 30: Iguais dentro e fora // R' U2 R U R' U R F U R U2 R' U R U R' F' // Sune invertido atrás, F U, encaixa de longe + U, pesca + F'
-        - 29: Opostos dentro, iguais fora // F R U' R' U' R U2 R' U' F' R' U' R U' R' U2 R // F + encaixa + U', tira pra longe + volta par L, sune atrás
-    - Barra certa na frente:
+        - 28: Iguais e iguais // U' R' U' R' D' R U R' D R U2 R U R' U R // Da esq., tira atrás, emenda comm pra voltar, emenda sune inverso atrás
+        - 34: Opostos e opostos // R U R' U R U' R' F' U' L' U2 L U F // Tira e pra longe, encaixa + F' U', tira L pra longe, termina
+        - 30: Iguais e opostos // R' U2 R U R' U R F U R U2 R' U R U R' F' // Sune invertido atrás, F U, encaixa de longe + U, pesca + F'
+        - 29: Opostos e iguais // F R U' R' U' R U2 R' U' F' R' U' R U' R' U2 R // F + encaixa + U', tira pra longe + volta par L, sune atrás
+    - Barra na frente:
         - 27: Nada do lado // U2 R U' R' U2 L R U' R' U L' // U2, quebra par + U2, forma par, encaixa, termina
         - 25: Barra do lado // R' U R U2 L' R' U R U' L // Quebra par atrás + U2, forma par atrás, encaixa atrás, termina
         - 32: Opostos do lado // U2 R' U' R2 U R' F' R U R' U' R' F R2 U' R' U' R' U R // U2, tira atrás, emenda tirar frente, F', OLL T, emenda encaixar, termina
-    - Barra oposta na frente:
+    - Opostos na frente:
         - 35: Nada do lado // F U' R' U2 R U F' R' U' R U R' U R // F U', tira atrás pra longe, encaixa par frente, wv
         - 31: Barra do lado // U2 Rw U' Rw U2 R' F R U2 Rw2 F // U2, Rw U', Rw U2, sludge sem fim F, U2 Rw2 F
         - 36: Opostos do lado // U L' U2 R U2 R' U2 L U R U R' U' R U' R' // Da dir., tira par L pra longe sem abaixar, tira pra longe + U2, L, wv
     - Nada na frente com barra do lado:
-        - 26: Barra certa do lado // U' R U R D R' U' R D' R' U2 R' U' R U' R' // Da esq., tira, emenda comm pra voltar, emenda sune invertido
-        - 33: Barra oposta do lado // R U' R' U R U R' U' R U R' U' R' D' R U' R' D R // Quebra par + U, double sexy, R' D', encaixa, D R
+        - 26: Barra do lado // U' R U R D R' U' R D' R' U2 R' U' R U' R' // Da esq., tira, emenda comm pra voltar, emenda sune invertido
+        - 33: Opostos do lado // R U' R' U R U R' U' R U R' U' R' D' R U' R' D R // Quebra par + U, double sexy, R' D', encaixa, D R
+
+- Iguais em cima e opostos embaixo:
+    - Nenhuma barra: 
+        - 44: Iguais e iguais // U' R U R' U2 R U' R' U2 R U' R2 F' R U R U' R' F // Da esq., tira + U2, encaixa + U2, encaixa, emenda f2l
+        - 43: Opostos e opostos // U2 F R U R' U' R U' R' U' R U R' F' // U2, F + sexy, encaixa + U', pesca + F
+        - 37: Iguais e opostos // R' D' R U R' D R2 U R' U2 R U' R' U' R U' R' // R' D', pesca, D + R2 pra emendar pesca, U2 + pesca invertido, termina
+        - 48: Opostos e iguais // U2 R U2 R' U' R U' R2 F' Rw U R U' Rw' F // U2, sune invertido, emenda OLL padrão
+    - Barra na frente:
+        - 38: Nada do lado // R' U2 R' D' R U2 R' D R' U R' U R U2 R' // Tira atrás pra longe, emenda comm pra voltar, emenda sune
+        - 41: Barra do lado // U R U2 R' F2 R U2 R' U2 R' F2 R // Da dir., tira pra longe, F2, tira pra longe + U2, R' F2 R
+        - 46: Opostos do lado // R' D' R U R' D R U2 R U2 R' U R U R' // R' D', pesca, D R, U2 + resolve f2l
+    - Opostos na frente:
+        - 45: Nada do lado // U R' U' R' D' R U R' D R U' R U' R' U2 R // Da dir., tira atrás, emenda comm pra voltar, emenda sune atrás
+        - 40: Barra do lado // U2 R U2 R D R' U2 R D' R U' R U' R' U2 R // U2, tira pra longe, emenda comm pra voltar, emenda sune atrás
+        - 42: Opostos do lado // U' L' U2 L F2 L' U2 L U2 Rw U2 Rw' // Da esq., tira L pra longe, F2, tira L pra longe + U2, encaixa de longe com Rw
+    - Nada na frente com barra do lado:
+        - 47: Barra do lado // Rw U R' U' Rw' F R F' R' U2 R U R' U R // OLL padrão + sune invertido atrás
+        - 39: Opostos do lado // U R' U' R U' F U' R' U R U F' R' U R // Da dir., tira atrás e pra longe, F U', pesca invertido atrás, U F', termin
