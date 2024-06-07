@@ -34,4 +34,22 @@ http://algdb.net/puzzle/333/zbll-zbllt
         - 42: Opostos do lado // U' L' U2 L F2 L' U2 L U2 Rw U2 Rw' // Da esq., tira L pra longe, F2, tira L pra longe + U2, encaixa de longe com Rw
     - Nada na frente com barra do lado:
         - 47: Barra do lado // Rw U R' U' Rw' F R F' R' U2 R U R' U R // OLL padrão + sune invertido atrás
-        - 39: Opostos do lado // U R' U' R U' F U' R' U R U F' R' U R // Da dir., tira atrás e pra longe, F U', pesca invertido atrás, U F', termin
+        - 39: Opostos do lado // U R' U' R U' F U' R' U R U F' R' U R // Da dir., tira atrás e pra longe, F U', pesca invertido atrás, U F', termina
+
+- Iguais na vertical:
+    - Nenhuma barra: 
+        - 58: Iguais e iguais // U R' D' R U' R' D R U' R U' R' U R U' R' U' R U R' // Da Dir., R' D', pesca invertido, D R, U', encaixa + U, encaixa + U', pesca
+        - 52: Opostos e opostos // R2 U R' D' R U R' D R' U' R2 U' R2 // R2 U, R' D', pesca, D R', U' + encaixa com R2 
+        - 53: Iguais e opostos // U2 R2 D' R U' R' D R U R U R' U2 R' D' R U2 R' D R2 // U2, comm c/ R2 tirando frente p/ trás, U + comm tirando pra longe atrás
+        - 54: Opostos e iguais // U2 R2 F R U R' U' R' F' R' U' R2 U2 R U2 R // U2, R2 F, sexy, sludge com fim R', U' R2 U2, termina
+    - Barra na frente:
+        - 59: Nada do lado // U R U R' U' R U R2 D' R U' R' D R U2 R U' R' // Da dir., sexy, pesca emenda R2 D', pesca invertido, D R, termina
+        - 60: Barra do lado // U2 R U R' F' R U R' U' R' F R U' R' F R U R U' R' F' // U2, J Perm sem encaixar última, wv
+        - 55: Opostos do lado // U2 R U' R2 D' Rw U2 Rw' D R2 U R' // U2, quebra par, emenda R2 D', tira pra longe com Rw, D + pesca com R2
+    - Opostos na frente:
+        - 51: Nada do lado // U R U' R2 D' Rw U2 Rw' D R2 U' R' U' R U' R' // Da dir., quebra par, emenda R2 D', tira p/ longe c/ Rw, D + encaixa c/ R2, termina
+        - 56: Barra do lado // R' U R2 D Rw' U2 Rw D' R2 U' R // Faz atrás: quebra par, emenda R2 D, tira pra longe com Rw, D' + pesca com R2
+        - 49: Opostos do lado // U R' U' R U R' U' R2 D R' U R D' R' U2 R' U R // Da dir., faz atrás: sexy, pesca emenda R2 D, pesca invertido, D' R', termina
+    - Nada na frente com barra do lado:
+        - 57: Barra do lado // R' U' R U2 R D R' U' R D' R2 U R U' R' U R // Tira atrás + U2, R D, pesca atrás, D', R2 pra emendar no f2l
+        - 50: Opostos do lado // R U' R' U R U R' U' R U R' U R' D' R U R' D R // Quebra par + U, sexy, pesca + U, R' D' + pesca + D R

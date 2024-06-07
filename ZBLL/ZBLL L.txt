@@ -80,7 +80,7 @@ http://algdb.net/puzzle/333/zbll-zblll
         - 16: Opostos e iguais // U' R' U2 R2 U R' U' R' U2 F R U R U' R' F' // De frente, tira atrás pra longe, emenda tirar frente + U', R' U2 F R, sexy invertido + F'
     - Barra na frente:
         - 23: Nada do lado // F R U R' U' R' F' R U2 R U2 R' // F + sexy, emenda sledge, U2 + wv
-        - 18: Barra do lado // F R' F' Rw U R U' Rw' // Sledge com fim Rw, U + encaixa
+        - 18: Barra do lado // F R' F' Rw U R U' Rw' // OLL padrão
         - 13: Opostos do lado // U' R' F2 R U2 R U2 R' F2 R U' R' U R U2 R' // De frente, alterna R' F2 e R U2 com 1 2 2 1, pesca invertido + U, wv
     - Opostos na frente:
         - 15: Nada do lado // U' L U' R U R' L' U2 R U' R' U' R U' R' // De frente, tira par BL pra trás, pesca + L', U2, pesca invertido + termina
@@ -98,7 +98,7 @@ http://algdb.net/puzzle/333/zbll-zblll
         - 34: Opostos e iguais // R U R' U R' D' R U2 R' D R2 U' R' U R U' R' // Tira e pra longe, R' D' R, U2, R' D, R2 pra emendar no f2l
     - Barra na frente:
         - 27: Nada do lado // U F U R U2 R' U R2 D R' U R D' R2 F' // De trás, F U, encaixa de longe, U, comm com R2 pra voltar par pro lugar, F'
-        - 29: Barra do lado // U F' Rw U R' U' Rw' F R // De trás, F', tira com começo Rw, U', sludge com começo Rw'
+        - 29: Barra do lado // U F' Rw U R' U' Rw' F R // De trás, OLL padrão
         - 36: Opostos do lado // U2 F R U' R' U' R U2 R' U' F' // U2, F + encaixa + U', tira pra longe, termina
     - Opostos na frente:
         - 35: Nada do lado // U' R' U' R' D' R U2 R' D R U R U' R' U' R // De frente, R' U' R' D', encaixa de longe + D, R + meio pra esquerda + R, termina
