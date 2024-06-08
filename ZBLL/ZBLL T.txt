@@ -52,4 +52,22 @@ http://algdb.net/puzzle/333/zbll-zbllt
         - 49: Opostos do lado // U R' U' R U R' U' R2 D R' U R D' R' U2 R' U R // Da dir., faz atrás: sexy, pesca emenda R2 D, pesca invertido, D' R', termina
     - Nada na frente com barra do lado:
         - 57: Barra do lado // R' U' R U2 R D R' U' R D' R2 U R U' R' U R // Tira atrás + U2, R D, pesca atrás, D', R2 pra emendar no f2l
-        - 50: Opostos do lado // R U' R' U R U R' U' R U R' U R' D' R U R' D R // Quebra par + U, sexy, pesca + U, R' D' + pesca + D R
+        - 50: Opostos do lado // R U' R' U R U R' U' R U R' U R' D' R U R' D R // Quebra par + U, double sexy com fim U, R' D' + pesca + D R
+
+- Iguais na horizontal:
+    - Nenhuma barra: 
+        - 69: Iguais e iguais // R U2 R' U' R U' R2 U2 R U R' U R // Sune invertido, emenda sune invertido atrás
+        - 70: Opostos e opostos // U2 R' U2 R U R' U R2 U2 R' U' R U' R' // U2, sune invertido atrás, emenda sune invertido
+        - 63: Iguais e opostos // U' R U R' U R U' R' U R' U' R2 U' R2 U2 R // Da esq., tira e pra longe, finge que traz, tira atrás, emenda encaixar, emenda atrás
+        - 67: Opostos e iguais // U' R' U' R2 U R2 U R2 U2 R' U R' U R // Da esq., tira atrás, emenda pesca, emenda pesca inv. atrás, encaixa de longe, termina
+    - Barra na frente:
+        - 62: Nada do lado // U' R U R' U R U2 R' U' R U2 R' U' R U' R' // U' + sune, U' + sune invertido
+        - 72: Barra do lado // U' R U R' U R U2 R' U2 R' U' R U' R' U2 R // Da esq., sune + U2, sune atrás
+        - 61: Opostos do lado // U' R' U' R U' R' U2 R U R' U2 R U R' U R // U' + sune atrás, U + sune invertido atrás
+    - Opostos na frente:
+        - 64: Nada do lado // R U2 R' U' R U' R' U R U R' U R U2 R' // Sune invertido + U, sune
+        - 66: Barra do lado // U2 R' U2 R U R' U R U' R' U' R U' R' U2 R // U2, sune invertido atrás + U', sune atrás
+        - 71: Opostos do lado // R' U R U2 R' U' R U' R U R' U' R' U' R U R U' R' // Quebra par atrás + U2, pesca atrás + U', sexy, pesca atrás, termina
+    - Nada na frente com barra do lado:
+        - 65: Barra do lado // U' R' U' R U' R' U R U' R U R2 U R2 U2 R' // Da esq., tira atrás e p/ longe, finge que leva, tira, emenda encaixar atrás, emenda fim
+        - 68: Opostos do lado // U' R U R2 U' R2 U' R2 U2 R U' R U' R' // Da esq., tira, emenda tirar atrás, emenda pesca inv., emenda encaixar atrás, termina
