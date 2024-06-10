@@ -22,7 +22,7 @@ http://algdb.net/puzzle/333/zbll-zblll
     - Nenhuma barra: 
         - 37: Iguais e iguais // U R U R' U R U2 R D R' U2 R D' R' U2 R' // De trás, sune, emenda comm mandando de trás pra longe e trazendo
         - 48: Opostos e opostos // U' L' U L2 F2 L' U2 L' U2 L F2 U2 L' U L // De frente, faz no L: pesca invertido, emenda L2 F2, L' U2 duas vezes, L F2, termina
-        - 42: Iguais e opostos // R U2 R' U2 R U R2 D' R U2 R' D R2 U2 R' // Tira pra longe e traz, pesca emenda no R2 D', tira pra longe + D, encaixa com R2
+        - 42: Iguais e opostos // R U2 R' U2 R U R2 D' R U2 R' D R2 U2 R' // Tira pra longe + U2, pesca emenda no R2 D', tira pra longe + D, encaixa com R2
         - 41: Opostos e iguais // R U2 R D R' U2 R D' R2 // Tira pra longe, comm pra encaixar
     - Barra na frente:
         - 38: Nada do lado // U R U2 R' U' R2 D R' U' R D' R2 // De trás, tira pra longe e traz, wv
