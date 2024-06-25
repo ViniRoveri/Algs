@@ -1,0 +1,37 @@
+http://algdb.net/puzzle/333/zbll-zbllu
+
+- Opostos em cima e iguais embaixo:
+    - Nenhum padrão: 
+        - 28: Iguais e iguais // R U R' U R U2 R' U R2 D' Rw U2 Rw' D R U2 R // Sune + U, R2 D', tira pra longe com Rw, D + termina
+        - 34: Opostos e opostos // U R U R' U R U2 R' U R U2 R D R' U2 R D' R2 // Da dir., Sune + U, tira pra longe, emenda comm p/ encaixar
+        - 30: Iguais e opostos // U' R' U' R F R' U R U' R' F' Rw U R U' Rw' // Da esq., tira atrás, F, encaixa atrás + U', sledge com fim Rw, termina
+        - 29: Opostos e iguais // U' F U R2 D' R U' R' D R2 F' R' U R // Da esq., F U, R2 D', manda frente pra trás, D R2, F + termina
+    - Barra na frente:
+        - 27: Nada do lado // U' F2 R U' R' U' R U R' F' R U R' U' R' F R F2 // Da esq., Y Perm c/ início e fim F2
+        - 25: Barra do lado // R' F R U' R' U' R U R' F' R U R' U' R' F R F' R // R' + Y Perm + R
+        - 32: Opostos do lado // U' R2 F' R U R' U' R' F R2 U' R' U2 R2 U R' U R // Da esq., R2 F', sexy + sludge c/ fim R2, U' + encaixa de longe atrás, R2 + termina
+    - Opostos na frente:
+        - 35: Nada do lado // U' Rw U R' U' Rw' F R2 U' R' U' R U2 R' U' F' // Da esq., OLL T c/ fim emendando R2 pra encaixar, U' + tira pra longe, termina
+        - 31: Barra do lado // R' U2 F' R U R' U' R' F R2 F U' R' U' R U F' // R' U2 F', sexy + sludge c/ fim R2, F + resolve atrás, termina
+        - 36: Opostos do lado // U' R2 D R' U2 R D' R' U2 R' U' R U2 R' U' R U' R' // Da esq., R2 D, tira atrás pra longe, D' + resolve par, U' + sune invertido
+    - Nada na frente com padrão do lado:
+        - 26: Barra do lado // R U2 R D Rw' U2 Rw D' R2 U R' U2 R U R' U R // Tira pra longe emenda comm p/ voltar usando Rw, U + sune invertido atrás
+        - 33: Opostos do lado // U R' U' R U' R' U2 R U' R' U2 R' D' R U2 R' D R2 // Da dir., faz atrás: Sune + U', tira pra longe, emenda comm pra encaixar
+
+- Xadrez:
+    - Nenhum padrão: 
+        - 44: Iguais e iguais // U F' R U R' U' R' F R2 U R' U2 R U R' U2 R U' R' // Da dir., F' + sexy + sludge c/ fim R2 p/ emendar pesca, U2 + resolve f2l
+        - 43: Opostos e opostos // F R U' R' U R U R' U R U' R' F' // F + encaixa + U, pesca + U, emenda wv
+        - 37: Iguais e opostos // U2 R U R' U R U R' U2 R U' R2 D' R U' R' D R // U2, pesca + U, pesca + U2, encaixa meio, emenda comm p/ encaixar quina
+        - 48: Opostos e iguais // U2 R U2 R' U' R U' R D R' U R D' R' U' R' // U2, sune invertido, emenda comm tirando atrás e voltando
+    - Barra na frente:
+        - 38: Nada do lado // U' R U2 R' U' R U' R D' R U2 R' D R U2 R // Da esq., sune invertido, emenda comm tirando frente pra longe e voltando
+        - 41: Barra do lado // x' R2 D2 R' U2 R D2 R' U2 Lw' // De cima, R2 D2, abaixa + U2, levanta + U2, abaixa + U2, termina c/ Lw
+        - 46: Opostos do lado // U' R U' R' U' R U' R' U R' D' R U R' D R2 U R' // Da esq., pesca invertido + U', pesca invertido + U, R' D', pesca, D + pesca c/ R2
+    - Opostos na frente:
+        - 45: Nada do lado // U' R' U R U R' U R U' R D R' U' R D' R2 U' R // Da esq., faz atrás: pesca invertido + U, pesca invertido + U', R D, pesca, D', pesca c/ R2
+        - 40: Barra do lado // U' R' U2 R U R' U R' D R' U2 R D' R' U2 R' // Da esq., sune invertido atrás, emenda comm tirando atrás pra longe e voltando
+        - 42: Opostos do lado // U F' R U2 R' U2 R' F R U2 R U2 R' // Da dir., F', tira pra longe + U2, sludge, U2 + wv
+    - Nada na frente com padrão do lado:
+        - 47: Barra do lado // R' U2 R U R' U R' D' R U' R' D R U R // Sune invertido atrás, emenda comm tirando frente e voltando
+        - 39: Opostos do lado // R' U' R F U' R' U' R U F' U R' U R // Tira atrás, F U', pesca atrás, U F', termina
