@@ -1,6 +1,6 @@
 http://algdb.net/puzzle/333/zbll-zbllu
 
-- Opostos em cima e iguais embaixo:
+- Iguais na horizontal:
     - Nenhum padrão: 
         - 28: Iguais e iguais // R U R' U R U2 R' U R2 D' Rw U2 Rw' D R U2 R // Sune + U, R2 D', tira pra longe com Rw, D + termina
         - 34: Opostos e opostos // U R U R' U R U2 R' U R U2 R D R' U2 R D' R2 // Da dir., Sune + U, tira pra longe, emenda comm p/ encaixar
@@ -48,7 +48,7 @@ http://algdb.net/puzzle/333/zbll-zbllu
         - 4: Opostos do lado // U R2 D R' U R D' R2 U R U2 R' // Da dir., comm tirando atrás, wv
     - Opostos na frente:
         - 2: Nada do lado // U' R U2 R D R' U2 R D' R' U2 R' U' R U' R' // Da esq., tira pra longe, emenda comm voltando, emenda sune invertido
-        - 10: Barra do lado // U' R2 D' R U' R' D R2 U R' U R U2 R' U R U2 R' U' R // Da esq., comm tirando frente, U + quebra par, U2 + quebra par, U2 + pesca
+        - 10: Barra do lado // U' R2 D' R U' R' D R2 U R' U R U2 R' U R U2 R' U' R // Da esq., comm tirando frente, U + wv
         - 5: Opostos do lado // U' R U2 R2 D' R U2 R' D R2 U' R' U2 R U2 R' // Da esq., tira pra longe, emenda R2 D', encaixa de longe, D, emenda formar par, wv
     - Nada na frente com padrão do lado:
         - 3: Barra do lado // U2 R2 D Rw' U2 Rw D' R' U2 R' // U2, comm tirando atrás p/ longe c/ Rw e voltando
@@ -56,7 +56,7 @@ http://algdb.net/puzzle/333/zbll-zbllu
 
 - Diagonais iguais pra baixo:
     - Nenhum padrão: 
-        - 16: Iguais e iguais // U' R' U2 R' D' R U2 R' D R U2 R U R' U R // Da esq., tira atrás pra longe, emenda comm pra voltar, emenda sune invertido atrás,
+        - 16: Iguais e iguais // U' R' U2 R' D' R U2 R' D R U2 R U R' U R // Da esq., tira atrás pra longe, emenda comm pra voltar, emenda sune invertido atrás
         - 22: Opostos e opostos // U' R2 F' R U2 R U2 R' F U' R U R' U' R // Da esq., R2 F', R U2 duas vezes, R' F, U' + termina
         - 18: Iguais e opostos // R' F' Rw U2 R' D R U' R' D' R2 U' Rw' F // R' F', Rw U2, R' D, encaixa, D R2, termina
         - 17: Opostos e iguais // R2 D' R U2 R' D R U2 R // Comm tirando frente pra longe e voltando
@@ -71,3 +71,21 @@ http://algdb.net/puzzle/333/zbll-zbllu
     - Nada na frente com padrão do lado:
         - 14: Barra do lado // U R2 D' R U' R' D R2 U' R' U2 R // Da dir., comm tirando frente, U' + wv
         - 21: Opostos do lado // R2 D' R U2 R' U' D R' U' R2 U R U R2 // Comm tirando frente pra longe s/ abaixar, U' + D, pesca atrás, emenda R2 U R, termina
+
+- Iguais em cima:
+    - Nenhum padrão: 
+        - 58: Iguais e iguais // F U R U2 R2 U2 R U R' U R U2 R U R' F' // F U, encaixa de longe, emenda sune invertido atrás, U2 + pesca + F'
+        - 52: Opostos e opostos // R' U2 R F U' R' U' R U F' // Tira atrás pra longe, F U', pesca atrás, U F'
+        - 53: Iguais e opostos // F R U' R' U' R U2 R' U' R U' R' U' R U2 R' U' F' // F + encaixa + U', sune invertido, U' + tira pra longe + U' F'
+        - 54: Opostos e iguais // U' Rw U R' U' Rw' R U R U' R' F R U R' U' F' // Da esq., sexy c/ começo Rw, abaixa M c/ Rw' R, encaixa par, resolve OLL
+    - Barra na frente:
+        - 59: Nada do lado // U' F U' R' U R U F' R' U2 R // Da esq., F U', pesca invertido atrás, U F', wv
+        - 60: Barra do lado // U2 R U R' U L' R U R' U' L U' R U' R' // U2, tira e vai p/ longe, L' + sexy + L, termina
+        - 55: Opostos do lado // U' Rw U2 R2 F R F' U2 Rw' R U R U' R' // Da esq., tira p/ longe c/ começo Rw, emenda sludge, U2, abaixa M c/ Rw' R, termina
+    - Opostos na frente:
+        - 51: Nada do lado // R U R' L' U2 R U' R' U' R U' R' L // Pesca, L' U2, pesca invertido + resolve par, L
+        - 56: Barra do lado // U R U R' L' U2 R U R' L U L' U L // Da dir., pesca, L' U2, pesca + L, resolve par L
+        - 49: Opostos do lado // R U' R' U' R U2 R2 D' R U R' D R // Pesca invertido + U', encaixa de longe, emenda R2 D', pesca, D R
+    - Nada na frente com padrão do lado:
+        - 57: Barra do lado // L U2 L' F' U L U L' U' F // Faz no L: Tira atrás pra longe, F' U, pesca atrás, U F
+        - 50: Opostos do lado // U' F R U R' U' R U R' U' F2 L' U' L U F // Da esq., F + double sexy, F2 + sexy na esquerda, F
