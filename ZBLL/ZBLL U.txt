@@ -89,3 +89,21 @@ http://algdb.net/puzzle/333/zbll-zbllu
     - Nada na frente com padrão do lado:
         - 57: Barra do lado // L U2 L' F' U L U L' U' F // Faz no L: Tira atrás pra longe, F' U, pesca atrás, U F
         - 50: Opostos do lado // U' F R U R' U' R U R' U' F2 L' U' L U F // Da esq., F + double sexy, F2 + sexy na esquerda, F
+
+- Iguais em baixo:
+    - Nenhum padrão: 
+        - 69: Iguais e iguais // R' U' R U' R' U2 R2 U R' U R U2 R' // Sune atrás, emenda sune na frente
+        - 70: Opostos e opostos // U2 R U R' U R U2 R2 U' R U' R' U2 R // U2, sune, emenda sune atrás
+        - 63: Iguais e opostos // U R U2 R' U' R U' R' U' R U R' U R U2 R' // Da dir., sune invertido + U', sune
+        - 67: Opostos e iguais // U2 R U R' U R' U2 R2 U R2 U R2 U' R' // U2, pesca + U, tira atrás p/ longe, emenda pesca, emenda encaixe atrás, termina
+    - Barra na frente:
+        - 62: Nada do lado // U' R U R' U' R U' R' U2 R U' R' U2 R U R' // Da esq., sexy + wv
+        - 72: Barra do lado // U R U2 R' U' R U' R' U2 R' U2 R U R' U R // Da dir., sune invertido + U2, sune invertido atrás
+        - 61: Opostos do lado // U2 R U R' U R U2 R' U R U2 R' U' R U' R' // U2, sune + U, sune invertido
+    - Opostos na frente:
+        - 64: Nada do lado // U R' U2 R2 U R2 U R U' R U R' U' R U' R' // Da dir., tira atrás p/ longe, emenda tirar frente, emenda encaixar atrás, wv
+        - 66: Barra do lado // U R U2 R2 U' R2 U' R' U R' U' R U R' U R // Da dir., tira p/ longe, emenda tirar atrás, emenda encaixar frente, wv
+        - 71: Opostos do lado // R U R' U' R' U R U R U' R' U R' U R U2 R' U' R // Sexy, pesca invertido atrás, encaixa par, U + pesca invertido atrás, termina
+    - Nada na frente com padrão do lado:
+        - 65: Barra do lado // U R' U2 R U R' U R U R' U' R U' R' U2 R // Da dir., sune invertido atrás + U, sune atrás
+        - 68: Opostos do lado // R' U' R U' R U2 R2 U' R2 U' R2 U R // Tira atrás e vai p/ longe, tira p/ longe, emenda pesca atrás, emenda encaixe, termina
