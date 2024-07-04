@@ -2,18 +2,72 @@ http://algdb.net/puzzle/333/zbll-zbllh
 
 - Iguais na frente:
     - Nenhum padrão: 
-        - 7: Iguais e iguais // U F R U R' U' R' F' U2 R U R' U R2 U2 R' // Da dir., F + sexy, R' F', tira atrás pra longe, pesca + U, encaixa de longe c/ R2
-        - 8: Opostos e opostos // F R U' R' U R U2 R' U' R U R' U' F' // F + encaixa + U, tira p/ longe e traz perto, sexy + F'
-        - 3: Iguais e opostos // U2 R U2 R' U' R U' R D' R U' R' D R U R // U2, sune invertido, emenda comm tirando frente e voltando
-        - 11: Opostos e iguais // U' F' R U2 R' U2 R' F R U R U R' U' R U' R' // Da esq., F' + tira pra longe e volta, sludge + wv
+        - 3: Iguais e iguais // U2 R U2 R' U' R U' R D' R U' R' D R U R // U2, sune invertido, emenda comm tirando frente e voltando
+        - 11: Opostos e opostos // U' F' R U2 R' U2 R' F R U R U R' U' R U' R' // Da esq., F' + tira pra longe e volta, sludge + wv
+        - 7: Iguais e opostos // U F R U R' U' R' F' U2 R U R' U R2 U2 R' // Da dir., F + sexy, R' F', tira atrás pra longe, pesca + U, encaixa de longe c/ R2
+        - 8: Opostos e iguais // F R U' R' U R U2 R' U' R U R' U' F' // F + encaixa + U, tira p/ longe e traz perto, sexy + F'
     - Barra na frente:
-        - 1: Nada do lado // U' F' Rw U R' U' Rw' F R2 U2 R' U' R U' R' // Da esq., OLL L no L, emenda sune invertido
-        - 5: Barra do lado // U2 R' F' R U R' U' R' F D' R U' R' D R U2 R // U2 R' F', sexy, R' F, D' + pesca invertido + D, termina
-        - 9: Opostos do lado // U2 R' F R U R' U' F' R U' R' U R' F R F' U R // U2, R' F + sexy + F' R, U' R U, sludge, U R
-    - Opostos na frente:
         - 12: Nada do lado // U2 F U' R U2 R' U2 R U' R' U' R U R' U F' // U2, F U', tira p/ longe e volta, pesca invertido + U', pesca + termina
         - 2: Barra do lado // U R U R' U R U2 R' U' R2 D R' U R D' R' U' R' // Da dir., sune + U', comm tirando atrás e voltando
         - 6: Opostos do lado // U R U' R2 F2 R U2 R U2 R' F2 U' R U2 R' // Da dir., pesca invertido, emenda R2 F2, R U2 duas vezes, R' F2,  U' + wv
+    - Opostos na frente:
+        - 1: Nada do lado // U' F' Rw U R' U' Rw' F R2 U2 R' U' R U' R' // Da esq., OLL L no L, emenda sune invertido
+        - 5: Barra do lado // U2 R' F' R U R' U' R' F D' R U' R' D R U2 R // U2 R' F', sexy, R' F, D' + pesca invertido + D, termina
+        - 9: Opostos do lado // U2 R' F R U R' U' F' R U' R' U R' F R F' U R // U2, R' F + sexy + F' R, U' R U, sludge, U R
     - Nada na frente com padrão do lado:
         - 10: Barra do lado // U R' U2 R U2 R2 F' R U R U' R' F U R // Da dir., tira atrás pra longe e volta, R2 F' R, U + encaixa, F U R
         - 4: Opostos do lado // U' F' R U2 R' U2 R' F U' R U R U' R' U' R' U R // Da esq., F', tira p/ longe e volta, sludge c/ U' no meio, encaixa frente, encaixa atrás
+
+- Iguais na direita:
+    - Nenhum padrão: 
+        - 18: Iguais e iguais // U2 R' U' R U' R' U F' R U R' U' R' F R2 U' R' U R // U2, tira atrás e vai p/ longe, R' U, F' + sexy + sludge c/ fim R2, termina
+        - 17: Opostos e opostos // F R' F' R U2 R U2 R' U' R' F2 Rw U Rw' F R // Sledge, U2 + encaixa de longe, U' + resolve OLL
+        - 15: Iguais e opostos // U2 R2 D' R U' R' D R2 U' R2 D' R U2 R' D R2 // U2, comm tirando frente, U' + comm p/ encaixar de volta
+        - 23: Opostos e iguais // U R U R' U R U2 R D' R U' R' D R U R // Da dir., sune, emenda comm tirando frente e voltando
+    - Barra na frente:
+        - 24: Nada do lado // U' R U R2 F R F' Rw U' Rw' U Rw U Rw' // Da esq., tira, emenda sludge, encaixa c/ Rw, U + pesca c/ Rw
+        - 20: Barra do lado // U R U R' U R U2 R' F R U' R' U' R U2 R' U' F' // Da dir., sune, F + encaixa + U', tira p/ longe, U' F'
+        - 21: Opostos do lado // R' F' R U2 R U2 R' F U' R U' R' // Sludge invertido, U2 + encaixa de longe + F, termina 
+    - Opostos na frente:
+        - 13: Nada do lado // U2 R2 D R' U R D' R2 U R2 D R' U2 R D' R2 // U2, comm tirando atrás, U, comm encaixando de volta
+        - 14: Barra do lado // U' R U2 R' U' R2 D R' U R D' R2 U' R U' R' // Da esq., tira p/ longe e trás perto, comm pra mandar p/ longe, termina
+        - 19: Opostos do lado // U R U R' U' R' U2 R U R2 D' R U R' D R' U2 R' // Da dir., sexy, tira atrás p/ longe + U, comm encaixando frente, emenda R' U2 R'
+    - Nada na frente com padrão do lado:
+        - 16: Barra do lado // U R' U2 R U R2 D' R U' R' D R2 U R' U R // Da dir., tira atrás p/ longe e leva perto, comm mandando p/ longe, termina
+        - 22: Opostos do lado // U R' F R U R' U' R' F' R U' R U R' U R // Da dir., R' F, sexy, sludge invertido, U' R, termina
+
+- Iguais na vertical:
+    - Nenhum padrão: 
+        - 25: Iguais e iguais // U2 + Barra na frente com Barra do lado
+        - 31: Opostos e opostos // U2 + Opostos na frente com Opostos do lado
+        - 29: Iguais e opostos // R' U2 R U R' U R U R' U' R U R' F' R U R' U' R' F R2 // Sune invertido atrás + U, sexy atrás, R' F', sexy + sludge c/ fim R2
+        - 30: Opostos e iguais // R' U' R U' R' U2 R2 U2 L' U R' U' L U' R U' R' // Sune atrás, emenda tirar p/ longe s/ abaixar, L', sexy s/ começo, L, termina
+    - Barra na frente:
+        - 32: Nada do lado // U2 Fw R Fw' U R' U R U' R2 F R F' R // U2, Fw R Fw', U + pesca invertido atrás + U', encaixa par atrás c/ R2 F
+        - 25: Barra do lado // U' R' U' R Dw' R U' R' U R2 B' R' U Lw' // Da esq., tira atrás, U' via Dw', pesca invertido + U, encaixa par atrás com R2 B
+        - 28: Opostos do lado // R U2 R' F R' F' R F2 Rw U Rw' F // Tira p/ longe, sledge, F2 + pesca c/ Rw + F
+    - Opostos na frente:
+        - 26: Nada do lado // U' Rw U2 R2 F R F' R U2 Rw' L' U2 L U L' U L // Da esq., tira p/ longe c/ Rw, emenda sludge, resolve branco, sune invertido no L
+        - 27: Barra do lado // U' F R U R' U' R U R' U' R U R' U' F' // Da esq., F + triple sexy + F'
+        - 31: Opostos do lado // U R' U' R U' R' U2 R U R' U' R U R' F' R U R' U' R' F R2 // Da dir., sune atrás + U sexy atrás, R' F', sexy, 
+    - Nada na frente com padrão do lado:
+        - 32 + U2: Barra do lado // U2 + Barra na frente com Nada do lado 
+        - 26 + U2: Opostos do lado // U2 + Opostos na frente com Nada do lado
+
+- Iguais na horizontal:
+    - Nenhum padrão: 
+        - 40: Iguais e iguais //
+        - 39: Opostos e opostos // 
+        - 33: Iguais e opostos // U2 + Opostos na frente com Barra do lado
+        - 36: Opostos e iguais // U2 + Barra na frente com Opostos do lado
+    - Barra na frente:
+        - 34: Nada do lado // 
+        - 38: Barra do lado // 
+        - 36: Opostos do lado // 
+    - Opostos na frente:
+        - 35: Nada do lado // 
+        - 33: Barra do lado // 
+        - 37: Opostos do lado // 
+    - Nada na frente com padrão do lado:
+        - 35: Barra do lado // U2 + Opostos na frente com Nada do lado
+        - 34: Opostos do lado // U2 + Barra na frente com Nada do lado 
