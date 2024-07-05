@@ -49,25 +49,25 @@ http://algdb.net/puzzle/333/zbll-zbllh
     - Opostos na frente:
         - 26: Nada do lado // U' Rw U2 R2 F R F' R U2 Rw' L' U2 L U L' U L // Da esq., tira p/ longe c/ Rw, emenda sludge, resolve branco, sune invertido no L
         - 27: Barra do lado // U' F R U R' U' R U R' U' R U R' U' F' // Da esq., F + triple sexy + F'
-        - 31: Opostos do lado // U R' U' R U' R' U2 R U R' U' R U R' F' R U R' U' R' F R2 // Da dir., sune atrás + U sexy atrás, R' F', sexy, 
+        - 31: Opostos do lado // U R' U' R U' R' U2 R U R' U' R U R' F' R U R' U' R' F R2 // Da dir., sune atrás + U sexy atrás, R' F', sexy + sludge c/ fim R2
     - Nada na frente com padrão do lado:
         - 32 + U2: Barra do lado // U2 + Barra na frente com Nada do lado 
         - 26 + U2: Opostos do lado // U2 + Opostos na frente com Nada do lado
 
 - Iguais na horizontal:
     - Nenhum padrão: 
-        - 40: Iguais e iguais //
-        - 39: Opostos e opostos // 
+        - 40: Iguais e iguais // R U R' U R U' R' U R U' R' U R' U' R2 U' R' U R' U R // Tira e p/ longe, finge que encaixa 2x, tira atrás, emenda encaixar, termina
+        - 39: Opostos e opostos // R U R' U R U2 R' U' R' U2 R U R' U R // Sune + U', sune invertido atrás
         - 33: Iguais e opostos // U2 + Opostos na frente com Barra do lado
         - 36: Opostos e iguais // U2 + Barra na frente com Opostos do lado
     - Barra na frente:
-        - 34: Nada do lado // 
-        - 38: Barra do lado // 
-        - 36: Opostos do lado // 
+        - 34: Nada do lado // R' U' R U' R' U R U' R' U2 R // Duplo sune atrás
+        - 38: Barra do lado // U R U2 R' U' R U' R' U' R' U' R U' R' U2 R // Da dir., sune invertido + U', sune atrás
+        - 36: Opostos do lado // U' R U2 R' U' R U R' U' R U' R' // Da esq., duplo sune invertido
     - Opostos na frente:
-        - 35: Nada do lado // 
-        - 33: Barra do lado // 
-        - 37: Opostos do lado // 
+        - 35: Nada do lado // U' R' U2 R U R' U' R U R' U R // Da esq., duplo sune invertido atrás
+        - 33: Barra do lado // U2 R U R' U R U' R' U R U2 R' // U2 + duplo sune
+        - 37: Opostos do lado // U' R' U2 R U R' U R U R U R' U R U2 R' // Da esq., sune invertido atrás + U, sune
     - Nada na frente com padrão do lado:
         - 35: Barra do lado // U2 + Opostos na frente com Nada do lado
         - 34: Opostos do lado // U2 + Barra na frente com Nada do lado 
