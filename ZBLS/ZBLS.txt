@@ -1,23 +1,32 @@
-Caso 1:
+Caso 1 (Par pronto):
     - Todos // U R U' R' // Encaixe padrão
+    - Quadrado Atrás // R' F R F' // Sludge
+    - Quadrado Frente // Lw U F' U' Lw' // Par p/ frente, abaixa par inteiro, U F' U', termina c/ Lw'
+    - Linha // U F' L' U' L F // Par p/ frente, F' + sexy na esquerda + F
 
-    - BL // R' F R F' // Sludge
-    - FL // Lw U F' U' Lw' // Pra frente, abaixa par inteiro, U F' U', termina c/ Lw'
-    - FB // U F' L' U' L F // Pra frente, F' + sexy na esquerda + F
-
-    - B // U R U R' U2' R' F R F' // Pra frente, pesca + U2, sludge
-    - F // U S' R U' R' S // Pra frente, S' + encaixa + S
-    - L // R' F R2 U R' U' F' // Sludge, emenda sexy, F'
+    - Frente // U S' R U' R' S // Par p/ frente, S' + encaixa + S
+    - Atrás // U R U R' U2' R' F R F' // Par p/ frente, pesca + U2, sludge
+    - Lado // R' F R2 U R' U' F' // Sludge, emenda sexy, F'
     - Nenhum // U2 R' F R F' U2 R' F R F' // U2 + sludge, U2 + sludge
 
-Caso 2:
-    - Todos // U' F' U F // Pra trás + encaixe padrão com F
+Caso 2 (Par pronto desorientado):
+    - Todos // U' F' U F // Par p/ trás + encaixe padrão com F
+    - Quadrado Atrás // F R' F' R // Sludge invertido
+    - Quadrado Frente // U' Rw U' Rw' U Rw U Rw' // Par p/ trás, pesca invertido c/ Rw, U, pesca c/ Rw
+    - Linha // U' R U2 R' F' U F // Par p/ trás, tira pra longe, encaixe padrão c/ F
 
-    - BL // F R' F' R // Sludge inverso
-    - BR // U' Rw U' Rw' U Rw U Rw' // Pra trás, pesca invertido c/ Rw, U, pesca c/ Rw
-    - RL // U' R U2 R' F' U F // Pra trás, tira pra longe, encaixe padrão c/ F
-
-    - L // U R' D' Rw U' Rw' D R // Pro lado, R' D', encaixa c/ Rw, D R
-    - R // U' R' D' Rw U Rw' D R // Pra trás, pesca c/ Rw, D R
-    - B // R U2 R D Rw' U' Rw D' R2 // Tira pra longe, emenda comm c/ pesca atrás c/ Rw p/ voltar
+    - Frente // U' R' D' Rw U Rw' D R // Meio orientado pra trás, R' D', pesca c/ Rw, D R
+    - Atrás // U R' D' Rw U' Rw' D R // Meio orientado pra trás, R' D', encaixa c/ Rw, D R
+    - Lado // R U2 R D Rw' U' Rw D' R2 // Tira p/ longe, emenda comm c/ pesca atrás c/ Rw p/ voltar
     - Nenhum // Rw U Rw' U2 M' U M // Encaixa c/ Rw + U2, encaixa meio
+
+Caso 3 (Pesca desorientado):
+    - Todos // F' U F // Pesca c/ F
+    - Quadrado Atrás // F' Rw U' Rw' F2 R U' R' // F', sludge na esquerda c/ fim F2, encaixa
+    - Quadrado Frente // R U' R' F' Rw U' Rw' F2 // Pesca invertido + F', sludge na esquerda c/ fim F2
+    - Linha // U' R' F R U R U' R2 F' R // Quina p/ trás, sludge + U, encaixa, emenda sludge invertido
+
+    - Frente // U2 R' D' Rw U' Rw' D R2 U' R' // U2, R' D', encaixa c/ Rw, D + R2 emendando encaixar
+    - Atrás // F' U' L' U' L U F // F' U', sexy na esquerda, termina
+    - Lado // U R2 D Rw' U' Rw D' R2 // Quina p/ lado, R2 D, pesca atrás c/ Rw, D' R2
+    - Nenhum // R U' R' U F' L' U' L U' F // Pesca invertido + U, F' + pesca na esquerda, U' F
