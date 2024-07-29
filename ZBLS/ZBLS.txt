@@ -9,7 +9,7 @@ Caso 1 - Par pronto:
     - Lado // R' F R2 U R' U' F' // Sludge, emenda sexy, F'
     - Nenhum // U2 R' F R F' U2 R' F R F' // U2 + sludge, U2 + sludge
 
-Caso 2 - Par pronto desorientado:
+Caso 2 - Par pronto, pro lado:
     - Todos // U' F' U F // Par p/ trás + encaixe padrão com F
     - Quadrado Atrás // F R' F' R // Sludge invertido
     - Quadrado Frente // U' Rw U' Rw' U Rw U Rw' // Par p/ trás, pesca invertido c/ Rw, U, pesca c/ Rw
@@ -20,7 +20,7 @@ Caso 2 - Par pronto desorientado:
     - Lado // R U2 R D Rw' U' Rw D' R2 // Tira p/ longe, emenda comm c/ pesca atrás c/ Rw p/ voltar
     - Nenhum // Rw U Rw' U2 M' U M // Encaixa c/ Rw + U2, encaixa meio
 
-Caso 3 - Pesca desorientado:
+Caso 3 - Pesca, pro lado:
     - Todos // F' U F // Pesca c/ F
     - Quadrado Atrás // F' Rw U' Rw' F2 R U' R' // F', sludge na esquerda c/ fim F2, encaixa
     - Quadrado Frente // R U' R' F' Rw U' Rw' F2 // Pesca invertido + F', sludge na esquerda c/ fim F2
@@ -42,7 +42,7 @@ Caso 4 - Pesca:
     - Lado // Lw F2 U F' U' Lw' // Forma par c/ Lw, F2, ZBLS de Par Pronto e Quadrado Frente
     - Nenhum // R U' R2' F R F' U2 R' F R F' // Pesca invertido, emenda sludge, U2 + sludge
 
-Caso 5 - Meio atrás, cor igual encima, quina pra frente:
+Caso 5 - Meio atrás, cor igual:
     - Todos // U' R U R' U2 R U' R' // Resolução padrão
     - Quadrado Atrás // R' D' R U R' D F R F' // R' D', pesca + D, F R F'
     - Quadrado Frente // U2 R' F R F' U2 F' U' F // U2 + sludge, U2 + encaixa c/ F
@@ -53,7 +53,7 @@ Caso 5 - Meio atrás, cor igual encima, quina pra frente:
     - Frente // U' F R U R' U' F' R U2 R' // Quina p/ trás, F + sexy + F', encaixa de longe
     - Nenhum // U2 R2 D Rw' U' Rw D' R' U' R' // U2, R2 D, pesca atrás c/ Rw, D + termina
 
-Caso 6 - Meio atrás, cor igual encima, quina pro lado:
+Caso 6 - Meio atrás, cor igual, do lado:
     - Todos // Dw R' U' R U R' U2' R // Dw, resolução padrão
     - Quadrado Atrás // R' D' F Rw U2 Rw' F D R // R' D' F, encaixa de longe c/ Rw, F D R
     - Quadrado Frente // U' Rw U' R' U R U Rw' // Resolução padrão
