@@ -79,7 +79,7 @@ http://algdb.net/puzzle/333/zbll-zblll
         - 22: Iguais e opostos // R U' R' U' R' D' Rw U2 Rw' D R U' R U R' // Pesca invertido + U', R' D', tira pra longe com Rw, D R, termina
         - 16: Opostos e iguais // U' R' U2 R2 U R' U' R' U2 F R U R U' R' F' // De frente, tira atrás pra longe, emenda tirar frente + U', R' U2 F R, sexy invertido + F'
     - Barra na frente:
-        - 23: Nada do lado // F R U R' U' R' F' R U2 R U2 R' // F + sexy, emenda sledge, U2 + wv
+        - 23: Nada do lado // F R U R' U' R' F' R U2 R U2 R' // F + sexy, emenda hedge, U2 + wv
         - 18: Barra do lado // F R' F' Rw U R U' Rw' // OLL padrão
         - 13: Opostos do lado // U' R' F2 R U2 R U2 R' F2 R U' R' U R U2 R' // De frente, alterna R' F2 e R U2 com 1 2 2 1, pesca invertido + U, wv
     - Opostos na frente:

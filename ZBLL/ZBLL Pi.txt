@@ -8,12 +8,12 @@ http://algdb.net/puzzle/333/zbll-zbllpi
         - 36: Opostos dentro, iguais fora // R' F2 R U2 R U2 R' F2 U' R U' R' // Alterna R' F2 e R U2 com 1 2 2 1, trás pra perto e encaixa
     - Barra certa na frente:
         - 26: Nada do lado // R U' R' U' R U' R' U R U R' U R' F' R U R U' R' F // Pesca invertido, pra longe, pesca invertido, põe a quina, põe o meio
-        - 29: Barra do lado // U F U R U2 R' U2 R U R2 F' R U2 R U2 R' // De frente, F U, encaixa na direita, U2, põe no lugar, emenda no sledge, U2 e encaixa
+        - 29: Barra do lado // U F U R U2 R' U2 R U R2 F' R U2 R U2 R' // De frente, F U, encaixa na direita, U2, põe no lugar, emenda no hedge, U2 e encaixa
         - 34: Opostos do lado // U' R' U' R U' R' U R U' R' U R' D' R U R' D R2 // De trás, tira atrás e pra longe, finge que traz, R' U e emenda no comm
     - Barra oposta na frente:
         - 33: Nada do lado // U R' U' R U' B2 R' U2 R U2 Lw U2 Lw' // De frente, tira atrás e pra longe, B2, encaixa atrás, U2, Lw U2 Lw'
-        - 28: Barra do lado // U2 R' U2 R U R' U' R U R2 F R U R U' R' F' R // U2, tira pra longe atrás e leva pra perto, sexy atrás, R2 F, encaixa atrás, sledge
-        - 30: Opostos do lado // U F U R U' R' U R U' R2 F' R U R U' R' // De frente, F U, encaixa imaginário, levanta e pra perto, emenda no sledge, encaixa
+        - 28: Barra do lado // U2 R' U2 R U R' U' R U R2 F R U R U' R' F' R // U2, tira pra longe atrás e leva pra perto, sexy atrás, R2 F, encaixa atrás, hedge
+        - 30: Opostos do lado // U F U R U' R' U R U' R2 F' R U R U' R' // De frente, F U, encaixa imaginário, levanta e pra perto, emenda no hedge, encaixa
     - Nada na frente com barra do lado:
         - 35: Barra certa do lado // U R2 F2 R2 U' R' U' R' F2 R2 U R' F2 R // De frente, R2 F2 R2, traz perto e baixo duas vezes, F2 R2, encaixa meio e par c/ R F
         - 27: Barra oposta do lado // U R U R' U R U' R' U R2 D R' U' R D' R' U' R' // De frente, tira e pra longe, finge que traz, comm pra trazer perto, encaixa
@@ -56,7 +56,7 @@ http://algdb.net/puzzle/333/zbll-zbllpi
 
 - Xadrez:
     - Mesmo caso:
-        - 2: Barra e barra // R U2 R' U' R U' r' F' r U R' U2 r' F2 r // Sune inverso sem R' final, fat sledge, resolve direita, wv
+        - 2: Barra e barra // R U2 R' U' R U' r' F' r U R' U2 r' F2 r // Sune inverso sem R' final, fat hedge, resolve direita, wv
         - 9: Opostos e opostos // U' R U R' U R U' R' U' R' F' R U2 R U2 R' F // De trás, tira e pra longe, R U' R', trás pra frente, wv
     - Nada e Nada:
         - 11: UFR na frente // U R2 D' R U' R' D R U R' D' R U R' D R U R U' R' U' R // De frente, R2 D', pesca inverso, D + pesca, D' + pesca, D R U R, termina

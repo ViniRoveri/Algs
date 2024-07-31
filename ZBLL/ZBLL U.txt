@@ -4,7 +4,7 @@ http://algdb.net/puzzle/333/zbll-zbllu
     - Nenhum padrão: 
         - 28: Iguais e iguais // R U R' U R U2 R' U R2 D' Rw U2 Rw' D R U2 R // Sune + U, R2 D', tira pra longe com Rw, D + termina
         - 34: Opostos e opostos // U R U R' U R U2 R' U R U2 R D R' U2 R D' R2 // Da dir., Sune + U, tira pra longe, emenda comm p/ encaixar
-        - 30: Iguais e opostos // U' R' U' R F R' U R U' R' F' Rw U R U' Rw' // Da esq., tira atrás, F, encaixa atrás + U', sledge com fim Rw, termina
+        - 30: Iguais e opostos // U' R' U' R F R' U R U' R' F' Rw U R U' Rw' // Da esq., tira atrás, F, encaixa atrás + U', hedge com fim Rw, termina
         - 29: Opostos e iguais // U' F U R2 D' R U' R' D R2 F' R' U R // Da esq., F U, R2 D', manda frente pra trás, D R2, F + termina
     - Barra na frente:
         - 27: Nada do lado // U' F2 R U' R' U' R U R' F' R U R' U' R' F R F2 // Da esq., Y Perm c/ início e fim F2
