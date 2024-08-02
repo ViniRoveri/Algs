@@ -74,3 +74,14 @@ Caso 7 - Pesca ruim, do lado:
     - Atrás // F R' F' R U2 R U' R' U R U' R' // Hedge + U2, resolve f2l
     - Lado // U' R U2 R' U R' F R F' // Resolução padrão c/ sludge
     - Nenhum // M' U' M U2 Rw U' Rw' // Encaixa meio c/ M, U2 + encaixa c/ Rw
+
+Caso 8 - Pesca ruim:
+    - Todos // Dw R' U2 R U2 R' U R // Dw, resolve f2l
+    - Quadrado Atrás // Rw' U2 R2 U R' U' R' U2 Rw // Rw' U2, pesca c/ R2, U' + encaixa de longe atrás c/ fim Rw
+    - Quadrado Frente // Rw' U2 R2 U R2' U Rw // Resolução padrão
+    - Linha // F' U' L' U2 L U' F // F' U', encaixa de longe no L, U' F
+
+    - Frente // U2 Rw' U Rw2 U' Rw2 U' Rw U2' Rw U Rw' // U2, encaixa com Rw atrás, emenda encaixar c/ Rw, emenda pesca atrás c/ Rw, U2 + pesca c/ Rw
+    - Atrás // F R' F' R U' R U R' U' F' U' F // Hedge + U', sexy, pesca c/ F
+    - Lado // y U L' U2 L U' L F' L' F // Vira cubo p/ par ir p/ outro lado, resolve f2l c/ fim sludge
+    - Nenhum // Rw U Rw' U' R U' M' U Rw' // Sexy c/ Rw, R U', M' + termina
