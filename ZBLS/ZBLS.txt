@@ -85,3 +85,14 @@ Caso 8 - Pesca ruim:
     - Atrás // F R' F' R U' R U R' U' F' U' F // Hedge + U', sexy, pesca c/ F
     - Lado // y U L' U2 L U' L F' L' F // Vira cubo p/ par ir p/ outro lado, resolve f2l c/ fim sludge
     - Nenhum // Rw U Rw' U' R U' M' U Rw' // Sexy c/ Rw, R U', M' + termina
+
+Caso 9 - Meio atrás, cor diferente:
+    - Todos // Dw R' U' R U' R' U' R // Dw, resolve f2l
+    - Quadrado Atrás // U Rw U R' U' Rw' R2 U' R' // Quina p/ lado, sexy c/ começo Rw, Rw' + encaixa c/ R2
+    - Quadrado Frente // U' R U' R' Dw R' U' R // Quina p/ trás, encaixa, Dw + pesca atrás
+    - Linha // F R U R' U' F' R U' R' // F + sexy + F', encaixa
+
+    - Direita // F R U R' U' F' U' R' F R F' // F + sexy + F', termina c/ sludge
+    - Esquerda // R' F R2 U' R' U' Rw U2 Rw' U' F'  // Sludge, emenda encaixar + U', tira p/ longe c/ Rw, U' F'
+    - Frente // U' Rw U2 Rw' U' Rw U' Rw' U Rw U2 Rw' // Quina p/ trás, sune invertido c/ Rw, U + encaixa de longe c/ Rw
+    - Nenhum // U Rw U Rw' U2 M' U Rw' R2 U' R' // Quina p/ lado, pesca c/ Rw + U2, M' U, Rw' + encaixa c/ R2
