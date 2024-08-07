@@ -96,3 +96,14 @@ Caso 9 - Meio atrás, cor diferente:
     - Esquerda // R' F R2 U' R' U' Rw U2 Rw' U' F'  // Sludge, emenda encaixar + U', tira p/ longe c/ Rw, U' F'
     - Frente // U' Rw U2 Rw' U' Rw U' Rw' U Rw U2 Rw' // Quina p/ trás, sune invertido c/ Rw, U + encaixa de longe c/ Rw
     - Nenhum // U Rw U Rw' U2 M' U Rw' R2 U' R' // Quina p/ lado, pesca c/ Rw + U2, M' U, Rw' + encaixa c/ R2
+
+Caso 10 - Meio atrás, cor diferente, de lado:
+    - Todos // U' R U R' U R U R' // Resolução padrão
+    - Quadrado Atrás // R' F R F' U2 R U R' U' R U R' // Sludge, U2 + resolve f2l
+    - Quadrado Frente // R U R2 F R F' R U R' // Pesca, emenda sludge, pesca
+    - Linha // F R' F' R U R' F R F' R U R' // Hedge, U + sludge, pesca
+
+    - Direita // U' R U R' U' Rw U' Rw' U' Rw U Rw' // Quina p/ trás, sexy, pesca invertido c/ Rw, U' + pesca c/ Rw
+    - Esquerda // U F R' F' R U2 R U' R' // Quina p/ lado, hedge, U2 + encaixa
+    - Frente // U2 R U' R' U Rw U' Rw' U' Rw U Rw' // U2, pesca invertido + U, pesca invertido c/ Rw, U' + pesca c/ Rw
+    - Nenhum // Rw U' Rw' U' Rw U Rw' U2 R' F R F' // Pesca invertido c/ Rw + U', pesca c/ Rw, U2 + sludge
