@@ -9,7 +9,7 @@ Caso 1 - Par pronto:
     - Lado // R' F R2 U R' U' F' // Sludge, emenda sexy, F'
     - Nenhum // U2 R' F R F' U2 R' F R F' // U2 + sludge, U2 + sludge
 
-Caso 2 - Par pronto, pro lado:
+Caso 2 - Par pronto, de lado:
     - Todos // U' F' U F // Par p/ trás + encaixe padrão com F
     - Quadrado Atrás // F R' F' R // Sludge invertido
     - Quadrado Frente // U' Rw U' Rw' U Rw U Rw' // Par p/ trás, pesca invertido c/ Rw, U, pesca c/ Rw
@@ -83,7 +83,7 @@ Caso 8 - Pesca ruim:
 
     - Frente // U2 Rw' U Rw2 U' Rw2 U' Rw U2' Rw U Rw' // U2, encaixa com Rw atrás, emenda encaixar c/ Rw, emenda pesca atrás c/ Rw, U2 + pesca c/ Rw
     - Atrás // F R' F' R U' R U R' U' F' U' F // Hedge + U', sexy, pesca c/ F
-    - Lado // y U L' U2 L U' L F' L' F // Vira cubo p/ par ir p/ outro lado, resolve f2l c/ fim sludge
+    - Lado // y U L' U2 L U' L F' L' F // Vira cubo c/ par p/ outro lado, resolve f2l c/ fim sludge
     - Nenhum // Rw U Rw' U' R U' M' U Rw' // Sexy c/ Rw, R U', M' + termina
 
 Caso 9 - Meio atrás, cor diferente:
@@ -107,3 +107,69 @@ Caso 10 - Meio atrás, cor diferente, de lado:
     - Esquerda // U F R' F' R U2 R U' R' // Quina p/ lado, hedge, U2 + encaixa
     - Frente // U2 R U' R' U Rw U' Rw' U' Rw U Rw' // U2, pesca invertido + U, pesca invertido c/ Rw, U' + pesca c/ Rw
     - Nenhum // Rw U' Rw' U' Rw U Rw' U2 R' F R F' // Pesca invertido c/ Rw + U', pesca c/ Rw, U2 + sludge
+
+Caso 11 - Par ruim:
+    - Todos // y' R U2 R2 U' R2 U' R' //
+    - Quadrado Atrás // R U R' U' R U' R' F' U' F //
+    - Quadrado Frente // U' R U2 R' U F' U' F //
+    - Linha // R U' R' U R U' R2' F R F' R U' R' //
+
+    - Frente // R U2 R' U' Rw U' Rw' U2 Rw U Rw' //
+    - Atrás // F' L' U' L U' L' U L U' F //
+    - Lado // F' U Rw' F2 Rw U2 F //
+    - Nenhum // F R' F' R U' R U' R2 F R F' //
+
+Caso 12 - Par ruim, de lado:
+    - Todos // R U' R' U R U' R' U2 R U' R' //
+    - Quadrado Atrás // R U' R' U R U' R' U R' F R F' //
+    - Quadrado Frente // U F' U2 F U' R U R' //
+    - Linha // R U' Rw' U R U' R' U' Rw U2 R' //
+
+    - Frente // U2 R' F2 r U r' F R2 U R' //
+    - Atrás // R U R' U R' F R F' R U R' //
+    - Lado // R Dw' R U2 R' U2 F' //
+    - Nenhum // R U2 R' U' M' U' M U2' Rw U' Rw' //
+
+Caso 13 - Juntos, quina na frente, cor diferente:
+    - Todos // Dw R' U R U' R' U' R //
+    - Quadrado Atrás // M' U' R U R' U2 R U' Rw' //
+    - Quadrado Frente // R' F' Rw U R U2 Rw' F2 //
+    - Linha // U R U' R' U R U' R' Dw' R' U R // 
+
+    - Direita // M' U' R U' Rw' U2 Rw U' Rw' //
+    - Esquerda // R' F R U2 Rw U' Rw' U2 F' //
+    - Atrás // R' D' Rw U Rw' D R U R U' R' //
+    - Nenhum // U2 R U R D Rw' U Rw D' R' U R' //
+
+Caso 14 - Juntos, quina na frente, cor diferente, de lado:
+    - Todos // U' R U' R' U R U R' //
+    - Quadrado Atrás // M' U' R U' R' U R U R' U' M //
+    - Quadrado Frente // U2 R U R' U R U2 R2 F R F' //
+    - Linha // Rw' D' Rw U' Rw' D Rw R U R' //
+
+    - Direita // F' Rw U' Rw' F2 U' R U R //
+    - Esquerda // R U R' U' F' U' F U R U R' //
+    - Atrás // R U R' U' R' F R F' R U R' //
+    - Nenhum // U2 Rw U' Rw' U2 Rw U Rw' U R U R //
+
+Caso 15 - Juntos, quina na frente, cor igual:
+    - Todos // R' D' R U' R' D R U R U' R' //
+    - Quadrado Atrás // F' U L' U L U2' F //
+    - Quadrado Frente // R' D' R U' R' D F R F //
+    - Linha // M U Rw U' Rw' U' M' //
+
+    - Direita // R U2' R2' F R F' U' R U2' R' //
+    - Esquerda // M U R U R' U' Rw U' R' //
+    - Atrás // R U R' U2 R U' R2 F R F' //
+    - Nenhum // U R U' R D Rw' U Rw D' R' U' R' //
+
+Caso 16 - Juntos, quina na frente, cor igual, de lado:
+    - Todos // U M' U R U' Rw' U' R U R' //
+    - Quadrado Atrás // R U' R' U2 F' U' F //
+    - Quadrado Frente // U F U R U' R' F' R U R' //
+    - Linha // U F R U R' U' F' U R U' R' //
+
+    - Direita // F' U R U R' U' R' F2 R F' //
+    - Esquerda // U Rw U' Rw' U2' Rw U Rw' U' R U R' //
+    - Atrás // U Rw U' Rw' U2 Rw U Rw' U Rw U' Rw' U' Rw U Rw' //
+    - Nenhum // U R U2 R' F' L' U2 L F //
