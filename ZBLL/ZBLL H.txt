@@ -15,7 +15,7 @@ http://algdb.net/puzzle/333/zbll-zbllh
         - 5: Barra do lado // U2 R' F' R U R' U' R' F D' R U' R' D R U2 R // U2 R' F', sexy, R' F, D' + pesca invertido + D, termina
         - 9: Opostos do lado // U2 R' F R U R' U' F' R U' R' U R' F R F' U R // U2, R' F + sexy + F' R, U' R U, sludge, U R
     - Nada na frente com padrão do lado:
-        - 10: Barra do lado // U R' U2 R U2 R2 F' R U R U' R' F U R // Da dir., tira atrás pra longe e volta, R2 F' R, U + encaixa, F U R
+        - 10: Barra do lado // U R' U2 R U2 R2 F' R U R U' R' F U R // Da dir., tira atrás pra longe e volta, R2 F' R, sexy invertido, F U R
         - 4: Opostos do lado // U' F' R U2 R' U2 R' F U' R U R U' R' U' R' U R // Da esq., F', tira p/ longe e volta, sludge c/ U' no meio, encaixa frente, encaixa atrás
 
 - Iguais na direita:
