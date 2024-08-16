@@ -43,26 +43,26 @@ Caso 12 - Par ruim, de lado:
     - Nenhum // R U2 R' U' M' U' M U2 Rw U' Rw' // Tira p/ longe + U', encaixa meio c/ M, U2 + termina
 
 Caso 13 - Juntos, quina na frente, cor diferente:
-    - Todos // Dw R' U R U' R' U' R //
-    - Quadrado Atrás // M' U' R U R' U2 R U' Rw' //
-    - Quadrado Frente // R' F' Rw U R U2 Rw' F2 //
-    - Linha // U R U' R' U R U' R' Dw' R' U R // 
+    - Todos // Dw R' U R U' R' U' R // Resolução padrão
+    - Quadrado Atrás // R U R' U R U' R' F' U' F // Pesca + U, encaixa, encaixa c/ F
+    - Quadrado Frente // R' F' Rw U R U2 Rw' F2 // Sludge invertido c/ fim Rw, U R U2, termina
+    - Linha // U R U' R' U R U' R' U' F' U F // Quina p/ lado, encaixa + U + encaixa, termina
 
-    - Direita // M' U' R U' Rw' U2 Rw U' Rw' //
-    - Esquerda // R' F R U2 Rw U' Rw' U2 F' //
-    - Atrás // R' D' Rw U Rw' D R U R U' R' //
-    - Nenhum // U2 R U R D Rw' U Rw D' R' U R' //
+    - Direita // U2 F' L' U L U' L' U2 L F // Faz no L: U2, F' + encaixa + U', tira p/ longe + F
+    - Esquerda // U F U R U' R' F2 U' F // Quina p/ lado, F + sexy invertido, F2 + termina
+    - Atrás // R' D' Rw U Rw' D R U R U' R' // R' D', pesca c/ Rw, D R, termina
+    - Nenhum // U2 R U R D Rw' U Rw D' R' U R' // U2, R U R D, pesca invertido atrás c/ Rw, D' + R' U R'
 
 Caso 14 - Juntos, quina na frente, cor diferente, de lado:
-    - Todos // U' R U' R' U R U R' //
-    - Quadrado Atrás // M' U' R U' R' U R U R' U' M //
-    - Quadrado Frente // U2 R U R' U R U2 R2 F R F' //
-    - Linha // Rw' D' Rw U' Rw' D Rw R U R' //
+    - Todos // U' R U' R' U R U R' // Resolução padrão
+    - Quadrado Atrás // M' U' R U' R' U R U R' U' M // M' U', resolve par, termina
+    - Quadrado Frente // U2 R U R' U R U2 R2 F R F' // U2, pesca + U, resolve f2l c/ fim sludge
+    - Linha // Rw' D' Rw U' Rw' D Rw R U R' // Rw' D', pesca invertido c Rw, D Rw, pesca
 
-    - Direita // F' Rw U' Rw' F2 U' R U R //
-    - Esquerda // R U R' U' F' U' F U R U R' //
-    - Atrás // R U R' U' R' F R F' R U R' //
-    - Nenhum // U2 Rw U' Rw' U2 Rw U Rw' U R U R //
+    - Direita // F' Rw U' Rw' F2 U' R U R' // F', pesca invertido c/ Rw, F2 + termina
+    - Esquerda // R U R' U' F' U' F U R U R' // Sexy, tira quina c/ F, termina
+    - Atrás // R U R' U' R' F R F' R U R' // Sexy, sludge + pesca
+    - Nenhum // U2 Rw U' Rw' U M' U2 R U Rw' // U2, pesca invertido c/ Rw + U, M' U2, pesca c/ fim Rw'
 
 Caso 15 - Juntos, quina na frente, cor igual:
     - Todos // R' D' R U' R' D R U R U' R' //
