@@ -28,7 +28,7 @@ Caso 11 - Par ruim:
 
     - Frente // R U2 R' U' Rw U' Rw' U2 Rw U Rw' // Tira p/ longe + U', resolve f2l
     - Atrás // F' L' U' L U' L' U L U' F // F', pesca no L + U', resolve par + termina
-    - Lado // F' U Rw' F2 Rw U2 F // F' U, Rw' F2 Rw, termina
+    - Lado // F' U Rw' F2 Rw U2 F // F' U, resolve par + termina
     - Nenhum // F R' F' R U' R U' R2 F R F' // Hedge, resolve f2l c/ fim sludge
 
 Caso 12 - Par ruim, de lado:
@@ -49,7 +49,7 @@ Caso 13 - Juntos, quina na frente, cor diferente:
     - Linha // U R U' R' U R U' R' U' F' U F // Quina p/ lado, encaixa + U + encaixa, termina
 
     - Direita // U2 F' L' U L U' L' U2 L F // Faz no L: U2, F' + encaixa + U', tira p/ longe + F
-    - Esquerda // U F U R U' R' F2 U' F // Quina p/ lado, F + sexy invertido, F2 + termina
+    - Esquerda // U F U R U' R' F2 U' F // Quina p/ lado, F + sexy invertido + F2, termina
     - Atrás // R' D' Rw U Rw' D R U R U' R' // R' D', pesca c/ Rw, D R, termina
     - Nenhum // U2 R U R D Rw' U Rw D' R' U R' // U2, R U R D, pesca invertido atrás c/ Rw, D' + R' U R'
 
@@ -59,7 +59,7 @@ Caso 14 - Juntos, quina na frente, cor diferente, de lado:
     - Quadrado Frente // U2 R U R' U R U2 R2 F R F' // U2, pesca + U, resolve f2l c/ fim sludge
     - Linha // Rw' D' Rw U' Rw' D Rw R U R' // Rw' D', pesca invertido c Rw, D Rw, pesca
 
-    - Direita // F' Rw U' Rw' F2 U' R U R' // F', pesca invertido c/ Rw, F2 + termina
+    - Direita // F' Rw U' Rw' F2 U' R U R' // F', sludge no L c/ fim F2, termina
     - Esquerda // R U R' U' F' U' F U R U R' // Sexy, tira quina c/ F, termina
     - Atrás // R U R' U' R' F R F' R U R' // Sexy, sludge + pesca
     - Nenhum // U2 Rw U' Rw' U M' U2 R U Rw' // U2, pesca invertido c/ Rw + U, M' U2, pesca c/ fim Rw'
@@ -76,7 +76,7 @@ Caso 15 - Juntos, quina na frente, cor igual:
     - Nenhum // U R U' R D Rw' U Rw D' R' U' R' // Quina p/ lado, R U' R D, pesca invertido atrás c/ Rw, D' + termina
 
 Caso 16 - Juntos, quina na frente, cor igual, de lado:
-    - Todos // U M' U R U' Rw' U' R U R' // Quina p/ lado, sexy invertido c/ fim Rw', termina
+    - Todos // U M' U R U' Rw' U' R U R' // Quina p/ lado M', sexy invertido c/ fim Rw', termina
     - Quadrado Atrás // R U' R' U2 F' U' F // Resolução padrão
     - Quadrado Frente // U F U R U' R' F' R U R' // Quina p/ lado, F + sexy invertido + F', termina
     - Linha // U F R U R' U' F' U R U' R' // Quina p/ lado, F + sexy + F', termina
