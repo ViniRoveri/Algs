@@ -1,0 +1,87 @@
+Caso 17 - Juntos, quina pra cima, cor diferente, do lado:
+    - Todos // 
+    - Quadrado Atrás // 
+    - Quadrado Frente // 
+    - Linha // 
+
+    - Direita // 
+    - Esquerda // 
+    - Atrás // 
+    - Nenhum // 
+
+Caso 18 - Juntos, quina pra cima, cor diferente:
+    - Todos // 
+    - Quadrado Atrás // 
+    - Quadrado Frente // 
+    - Linha // 
+
+    - Direita // 
+    - Esquerda // 
+    - Atrás // 
+    - Nenhum // 
+
+Caso 19 - Meio atrás, quina pra cima, cor diferente:
+    - Todos // 
+    - Quadrado Atrás // 
+    - Quadrado Frente // 
+    - Linha // 
+
+    - Direita // 
+    - Esquerda // 
+    - Frente // 
+    - Nenhum // 
+
+Caso 20 - Meio do lado, quina pra cima, cor igual:
+    - Todos // 
+    - Quadrado Atrás // 
+    - Quadrado Frente // 
+    - Linha // 
+
+    - Frente // 
+    - Atrás // 
+    - Lado // 
+    - Nenhum // 
+
+Caso 21 - Meio do lado, quina pra cima, cor diferente:
+    - Todos // 
+    - Quadrado Atrás // 
+    - Quadrado Frente // 
+    - Linha // 
+
+    - Frente // 
+    - Atrás // 
+    - Lado // 
+    - Nenhum // 
+
+Caso 22 - Meio atrás, quina pra cima, cor igual:
+    - Todos // 
+    - Quadrado Atrás // 
+    - Quadrado Frente // 
+    - Linha // 
+
+    - Direita // 
+    - Esquerda // 
+    - Frente // 
+    - Nenhum // 
+
+Caso 23 - Juntos, quina pra cima, cor igual:
+    - Todos // 
+    - Quadrado Atrás // 
+    - Quadrado Frente // 
+    - Linha // 
+
+    - Direita // 
+    - Esquerda // 
+    - Atrás // 
+    - Nenhum // 
+
+Caso 24 - Juntos, quina pra cima, cor igual, do lado
+    - Todos // 
+    - Quadrado Atrás // 
+    - Quadrado Frente // 
+    - Linha // 
+
+    - Direita // 
+    - Esquerda // 
+    - Atrás // 
+    - Nenhum // 
