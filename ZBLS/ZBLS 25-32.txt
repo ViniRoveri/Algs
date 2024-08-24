@@ -1,37 +1,4 @@
-Caso 17 - Juntos, quina pra cima, cor diferente, do lado:
-    - Todos // 
-    - Quadrado Atrás // 
-    - Quadrado Frente // 
-    - Linha // 
-
-    - Direita // 
-    - Esquerda // 
-    - Atrás // 
-    - Nenhum // 
-
-Caso 18 - Juntos, quina pra cima, cor diferente:
-    - Todos // 
-    - Quadrado Atrás // 
-    - Quadrado Frente // 
-    - Linha // 
-
-    - Direita // 
-    - Esquerda // 
-    - Atrás // 
-    - Nenhum // 
-
-Caso 19 - Meio atrás, quina pra cima, cor diferente:
-    - Todos // 
-    - Quadrado Atrás // 
-    - Quadrado Frente // 
-    - Linha // 
-
-    - Direita // 
-    - Esquerda // 
-    - Frente // 
-    - Nenhum // 
-
-Caso 20 - Meio do lado, quina pra cima, cor igual:
+Caso 25 - Quina encaixada, meio do lado:
     - Todos // 
     - Quadrado Atrás // 
     - Quadrado Frente // 
@@ -42,7 +9,18 @@ Caso 20 - Meio do lado, quina pra cima, cor igual:
     - Lado // 
     - Nenhum // 
 
-Caso 21 - Meio do lado, quina pra cima, cor diferente:
+Caso 26 - Quina encaixada, meio na frente:
+    - Todos // 
+    - Quadrado Atrás // 
+    - Quadrado Frente // 
+    - Linha // 
+
+    - Direita // 
+    - Esquerda // 
+    - Atrás // 
+    - Nenhum // 
+
+Caso 27 - Quina no lugar pra frente, meio do lado:
     - Todos // 
     - Quadrado Atrás // 
     - Quadrado Frente // 
@@ -53,7 +31,7 @@ Caso 21 - Meio do lado, quina pra cima, cor diferente:
     - Lado // 
     - Nenhum // 
 
-Caso 22 - Meio atrás, quina pra cima, cor igual:
+Caso 28 - Quina no lugar pro lado, meio na frente:
     - Todos // 
     - Quadrado Atrás // 
     - Quadrado Frente // 
@@ -61,27 +39,49 @@ Caso 22 - Meio atrás, quina pra cima, cor igual:
 
     - Direita // 
     - Esquerda // 
+    - Atrás // 
+    - Nenhum // 
+
+Caso 29 - Quina no lugar pra frente, meio na frente:
+    - Todos // 
+    - Quadrado Atrás // 
+    - Quadrado Frente // 
+    - Linha // 
+
+    - Direita // 
+    - Esquerda // 
+    - Atrás // 
+    - Nenhum // 
+
+Caso 30 - Quina no lugar pro lado, meio no lado:
+    - Todos // 
+    - Quadrado Atrás // 
+    - Quadrado Frente // 
+    - Linha // 
+
     - Frente // 
+    - Atrás // 
+    - Lado // 
     - Nenhum // 
 
-Caso 23 - Juntos, quina pra cima, cor igual:
-    - Todos // 
-    - Quadrado Atrás // 
-    - Quadrado Frente // 
-    - Linha // 
+Caso 31 - Par certo ao contrário:
+    - Cruz pra Cima // 
+    - Cruz pra Direita // 
+    - Cruz pra Baixo // 
+    - Cruz pra Esquerda // 
 
+    - Cima // 
     - Direita // 
+    - Baixo // 
     - Esquerda // 
-    - Atrás // 
-    - Nenhum // 
 
-Caso 24 - Juntos, quina pra cima, cor igual, do lado:
+Caso 32 - Par ruim ao contrário:
     - Todos // 
-    - Quadrado Atrás // 
-    - Quadrado Frente // 
-    - Linha // 
+    - Quadrado Cima Esquerda // 
+    - Quadrado Cima Direita // 
+    - Quadrado Baixo Direita // 
+    - Quadrado Baixo Esquerda // 
 
-    - Direita // 
-    - Esquerda // 
-    - Atrás // 
+    - Linha pra Cima // 
+    - Linha pro Lado // 
     - Nenhum // 

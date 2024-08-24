@@ -1,0 +1,67 @@
+Caso 33 - Meio encaixado, quina pra frente:
+    - Todos // 
+    - Quadrado Cima Esquerda // 
+    - Quadrado Cima Direita // 
+    - Quadrado Baixo Direita // 
+    - Quadrado Baixo Esquerda // 
+
+    - Linha pra Cima // 
+    - Linha pro Lado // 
+    - Nenhum // 
+
+Caso 34 - Meio encaixado, quina pro lado:
+    - Todos // 
+    - Quadrado Cima Esquerda // 
+    - Quadrado Cima Direita // 
+    - Quadrado Baixo Direita // 
+    - Quadrado Baixo Esquerda // 
+
+    - Linha pra Cima // 
+    - Linha pro Lado // 
+    - Nenhum // 
+
+Caso 35 - Meio encaixado ao contrário, quina pra frente:
+    - Cruz pra Cima // 
+    - Cruz pra Direita // 
+    - Cruz pra Baixo // 
+    - Cruz pra Esquerda // 
+
+    - Cima // 
+    - Direita // 
+    - Baixo // 
+    - Esquerda // 
+
+Caso 36 - Meio encaixado ao contrário, quina pro lado:
+    - Cruz pra Cima // 
+    - Cruz pra Direita // 
+    - Cruz pra Baixo // 
+    - Cruz pra Esquerda // 
+
+    - Cima // 
+    - Direita // 
+    - Baixo // 
+    - Esquerda // 
+
+Caso 37 - Par ruim encaixado:
+    - Cruz pra Direita // 
+    - Cima // 
+
+Caso 38 - Meio encaixado, quina no lugar pra frente:
+    - Todos // 
+    - Bloco // 
+    - Linha // 
+    - Nenhum // 
+
+Caso 39 - Meio encaixado, quina no lugar pro lado:
+    - Todos // 
+    - Bloco // 
+    - Linha // 
+    - Nenhum // 
+
+Caso 40 - Meio encaixado ao contrário, quina no lugar pra frente:
+    - Cruz pra Cima // 
+    - Esquerda // 
+
+Caso 41 - Meio encaixado ao contrário, quina no lugar pro lado:
+    - Cruz pra Cima // 
+    - Cima // 
