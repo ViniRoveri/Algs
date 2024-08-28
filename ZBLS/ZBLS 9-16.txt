@@ -44,7 +44,7 @@ Caso 12 - Par ruim, de lado:
 
 Caso 13 - Juntos, quina na frente, cor diferente:
     - Todos // Dw R' U R U' R' U' R // Resolução padrão
-    - Quadrado Atrás // R U R' U R U' R' F' U' F // Pesca + sexy invertido, termina
+    - Quadrado Atrás // R U R' U R U' R' F' U' F // Pesca + U + sexy invertido, termina
     - Quadrado Frente // R' F' Rw U R U2 Rw' F2 // Sludge invertido c/ fim Rw, U R U2, termina
     - Linha // U R U' R' U R U' R' U' F' U F // Duplo sexy invertido, termina
 
