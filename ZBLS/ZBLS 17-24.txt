@@ -1,4 +1,4 @@
-18-17, 23-24, 19-22, 20-21
+18-17, 23-24, 19-21,
 
 Caso 17 - Juntos, quina pra cima, cor diferente, do lado:
     - Todos // R U2 R' U' R U R' // Resolução padrão
@@ -18,20 +18,20 @@ Caso 18 - Juntos, quina pra cima, cor diferente:
     - Linha // R U' R' F' U' F U R U' R' // Pesca invertido, pesca c/ F, termina
 
     - Direita // U' F' L' U' L U L' U' L U2 F // Quina p/ trás, F' + double sexy no L c/ fim U2 + F
-    - Esquerda // R U R' F' L' U2 L U' F // Pesca, F' + tira p/ longe no L, termina
+    - Esquerda // R U R' F' L' U2 L U' F // Pesca, F' + forma par, termina
     - Atrás // R U' R2 F R F' Rw U' Rw' U' Rw U Rw' // Pesca invertido, emenda sludge, pesca invertido c/ Rw + U', pesca c/ Rw
     - Nenhum // F R U R' U' F' R U2 R2 F R F' // F + sexy + F', resolve f2l c/ fim sludge
 
-Caso 19 - Quina pra cima, meio atrás orientado:
-    - Todos // U R U2 R' U R U' R' //
-    - Quadrado Atrás // U R U' R' F' U2 F R U2 R' //
-    - Quadrado Frente // F' U' F U2 R U' R' U R U' R' //
-    - Linha // y U' F U R U R' U' R U2 R' F' //
+Caso 19 - Quina pra cima, meio do lado, quina embaixo:
+    - Todos // R U2 R' U R U' R' // Resolução padrão
+    - Quadrado Atrás // R U' R' F' U2 F R U2 R' // Encaixa, tira p/ longe c/ F, encaixa de longe
+    - Quadrado Frente // U' F' U' F U2 R U' R' U R U' R' // Meio pra trás, pesca c/ F, U2 + resolve f2l
+    - Linha // U2 R U' R' U Rw U' R' U2 R U Rw' // U2, encaixa + U, encaixa c/ início Rw, U2, pesca c/ fim Rw
 
-    - Direita // U R U2 R2 F R F' //
-    - Esquerda // F R' F' R2 U2 R' U2 R U R' //
-    - Frente // U F R U R' U' F' R U R' //
-    - Nenhum // y U2 L' U L U F R U2 R' F' //
+    - Frente // R U2 R2 F R F' // Resolução padrão c/ fim sludge
+    - Atrás // U' F R' F' R2 U2 R' U2 R U R' // Meio p/ trás, hedge, emenda tirar pra longe, U2 + termina
+    - Lado // F R U R' U' F' R U R' // F + sexy + F', termina
+    - Nenhum // U R U R2 Rw U' M U2 Rw U' Rw' // Meio p/ frente, pesca, emenda R2 Rw, encaixa meio, U2, termina
 
 Caso 20 - Quina pra cima, meio do lado desorientado:
     - Todos // Dw' L' U2 L U' L' U L //
@@ -44,27 +44,27 @@ Caso 20 - Quina pra cima, meio do lado desorientado:
     - Lado // U' F' U2 F2 R' F' R //
     - Nenhum // U R U' R2 F R F2 U' F //
 
-Caso 21 - Quina pra cima, meio do lado orientado:
-    - Todos // U2 R U R' U R U' R' //
-    - Quadrado Atrás // U2 R U R2 F R F' //
-    - Quadrado Frente // U R U' R' U2 R U' R2 F R F' //
-    - Linha // U R' F R F' U' R U2 R' //
+Caso 21 - Quina pra cima, meio do lado, quina em cima:
+    - Todos // R U R' U R U' R' // Resolução padrão
+    - Quadrado Atrás // R U R2 F R F' // Resolução padrão c/ fim sludge
+    - Quadrado Frente // U' R U' R' U2 R U' R2 F R F' // Meio p/ trás, encaixa, U2 + resolve f2l c/ fim sludge
+    - Linha // U' R' F R F' U2 R U' R' // Meio p/ trás, sludge, U2 + termina
 
-    - Frente // U F R' F' R2 U' R' U R U R' //
-    - Atrás // Rw U' R' U2 R U Rw' //
-    - Lado // U2 F R U R' U' F' U' R U2 R' //
-    - Nenhum // U R' F R F2 U' F R U2 R' //
+    - Frente // U2 Rw U' R' U2 R U Rw' // U2, encaixa c/ início Rw, U2, pesca c/ fim Rw
+    - Atrás // U' F R' F' R2 U' R' U R U R' // Meio p/ trás, hedge, emenda pesca invertido, termina
+    - Lado // F R U R' U' F' U2 R U' R' // F + sexy + F', U2 + termina
+    - Nenhum // U' R' F R F2 U' F R U2 R' // Meio p/ trás, sludge c/ fim F2, U' F, encaixa de longe
 
 Caso 22 - Quina pra cima, meio atrás desorientado:
-    - Todos // y' R' U R U2 R' U' R //
-    - Quadrado Atrás // U2 F' Rw U' Rw' F2 //
-    - Quadrado Frente // U' F R' F' R U' F R' F' R //
-    - Linha // U2 R U R' F' U' F //
+    - Todos // y' R' U R U2 R' U' R // Gira cubo c/ slot p/ trás, resolve f2l
+    - Quadrado Atrás // U2 F' Rw U' Rw' F2 // U2, F' + pesca invertido c/ Rw + F2
+    - Quadrado Frente // U' F R' F' R U' F R' F' R // Quina p/ trás, hedge + U' + hedge
+    - Linha // U2 R U R' F' U' F // U2, pesca + pesca c/ F
 
-    - Direita // U2 R' F R F' R U R2 F R F' //
-    - Esquerda // Rw U' Rw' U2 Rw U Rw' //
-    - Frente // U' Rw U' Rw' U' Rw U Rw' F' U' F //
-    - Nenhum // U' F R' F' R U2 Rw U' Rw' U Rw U Rw' //
+    - Direita // U2 R' F R F' R U R2 F R F' // U2, sludge, resolve f2l c/ fim sludge 
+    - Esquerda // Rw U' Rw' U2 Rw U Rw' // Resolução padrão
+    - Frente // U' Rw U' Rw' U' Rw U Rw' F' U' F // Quina p/ trás, pesca invertido c/ Rw + U', pesca c/ Rw, pesca c/ F
+    - Nenhum // U' F R' F' R U2 Rw U' Rw' U Rw U Rw' // Quina p/ trás, hedge + U2, resolve zbls
 
 Caso 23 - Juntos, quina pra cima, cor igual:
     - Todos // U R U' R' U' R U' R' U R U' R' // Resolução padrão
@@ -85,5 +85,5 @@ Caso 24 - Juntos, quina pra cima, cor igual, do lado:
 
     - Direita // U' R U' R' U Rw U' Rw' U2 Rw U Rw' // Quina p/ trás, pesca invertido + U, resolve f2l
     - Esquerda // U F' U L' U L F R U R' // Quina p/ lado, F' U, encaixa no L, F + termina
-    - Atrás // F' L' U L U' L' U' L U2 F // Faz no L: F', encaixa + U', pesca + termina
+    - Atrás // F' L' U L U' L' U' L U2 F // Faz no L: F', encaixa + U', forma par + termina
     - Nenhum // R U R' U2 F' Rw' F2 Rw U' F // Pesca + U2, F' + resolve par + termina
