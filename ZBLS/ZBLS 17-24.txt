@@ -13,9 +13,9 @@ Caso 17 - Juntos, quina pra cima, cor diferente, do lado:
 
 Caso 18 - Juntos, quina pra cima, cor diferente:
     - Todos // y' R' U2 R U R' U' R // Resolução padrão
-    - Quadrado Atrás // U R U' R2 F R F' U R U' R' // Quina p/ lado, encaixa, emenda sludge, termina
+    - Quadrado Atrás // U R U' R2 F R F' U R U' R' // Sexy invertido, emenda sludge, termina
     - Quadrado Frente // R U' R2 F R F' U2 R U R' // Pesca invertido, emenda sludge, U2 + pesca
-    - Linha // R U' R' F' U' F U R U' R' // Pesca invertido, pesca c/ F, termina
+    - Linha // U R U' R2 F R F' R' F R F' // Sexy invertido, emenda duplo sludge
 
     - Direita // U' F' L' U' L U L' U' L U2 F // Quina p/ trás, F' + double sexy no L c/ fim U2 + F
     - Esquerda // R U R' F' L' U2 L U' F // Pesca, F' + forma par, termina
@@ -40,7 +40,7 @@ Caso 20 - Quina pra cima, meio na frente, quina na direita:
     - Linha // U R' U' R' F R F' U R2 U' R' // Meio p/ esquerda, tira atrás s/ abaixar, sludge, encaixa atrás, emenda encaixar frente
 
     - Direita // F' U2 F2 R' F' R // Junta par, emenda hedge
-    - Esquerda // F' L' U2 L F U' R U R' // F' + encaixa de longe no L + F, termina
+    - Esquerda // F' L' U2 L F U' R U R' // F' + tira p/ longe no L + F, termina
     - Atrás // U F' U L' U L U' L' U2 L F // Meio p/ esquerda, F' U, forma par + termina
     - Nenhum // R U' R2 F R F' U' R' F R F' // Resolução padrão c/ fim sludge
 
