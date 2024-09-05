@@ -1,0 +1,45 @@
+1, 4, 5, 7
+
+Caso 1 - Par pronto:
+    - Todos // U R U' R' // Encaixe padrão
+    - Quadrado Atrás // R' F R F' // Sludge
+    - Quadrado Frente // Lw U F' U' Lw' // Par p/ frente, abaixa par inteiro, U F' U', termina c/ Lw'
+    - Linha // U F' L' U' L F // Par p/ frente, F' + sexy na esquerda + F
+
+    - Frente // U S' R U' R' S // Par p/ frente, S' + encaixa + S
+    - Atrás // U R U R' U2 R' F R F' // Par p/ frente, pesca + U2, sludge
+    - Lado // R' F R2 U R' U' F' // Sludge, emenda sexy, F'
+    - Nenhum // U2 R' F R F' U2 R' F R F' // U2 + sludge, U2 + sludge
+
+Caso 4 - Pesca:
+    - Todos // R U R' // Pesca
+    - Quadrado Atrás // U' F' U2 F U R U' R' // Quina p/ trás, encaixa de longe c/ F, termina
+    - Quadrado Frente // R U2 R' U' R' F R F' // Tira pra longe e trás perto, sludge
+    - Linha // R U' R' U2 R' F R F' // Pesca invertido + U2, sludge
+
+    - Frente // R U' R2 F R F' R U2 R' // Pesca invertido, emenda sludge, encaixa de longe
+    - Atrás // S' R U R' S // S' + pesca + S
+    - Lado // Lw F2 U F' U' Lw' // Forma par c/ Lw, F2, ZBLS de Par Pronto e Quadrado Frente
+    - Nenhum // R U' R2 F R F' U2 R' F R F' // Pesca invertido, emenda sludge, U2 + sludge
+
+Caso 5 - Meio atrás, cor igual:
+    - Todos // U' R U R' U2 R U' R' // Resolução padrão
+    - Quadrado Atrás // R' D' R U R' D F R F' // R' D', pesca + D, F R F'
+    - Quadrado Frente // U2 R' F R F' U2 F' U' F // U2 + sludge, U2 + encaixa c/ F
+    - Linha // U2 R U' R' U2 R U' R' U R' F R F' // U2 + encaixa + U2, resolução padrão c/ sludge
+
+    - Direita // U' Rw U R' U' Rw' R2 U2 R' // Quina p/ trás, sexy c/ começo Rw, Rw', encaixa c/ R2
+    - Esquerda // U' R U R' U R' F R F' // Resolução padrão c/ sludge
+    - Frente // U' F R U R' U' F' R U2 R' // Quina p/ trás, F + sexy + F', encaixa de longe
+    - Nenhum // U2 R2 D Rw' U' Rw D' R' U' R' // U2, R2 D, pesca atrás c/ Rw, D + termina
+
+Caso 7 - Pesca ruim, do lado:
+    - Todos // U' R U2 R' U2 R U' R' // Resolução Padrão
+    - Quadrado Atrás // R' D' Rw U2 Rw' D F R F' // R' D', encaixa de longe c/ Rw, D + F R F'
+    - Quadrado Frente // R' D' R U2 R' D F R F' // R' D', encaixa de longe, D + F R F'
+    - Linha // R U R' U R U' R2 F R F' // Pesca + U, resolve f2l c/ sludge
+
+    - Frente // U R U' R' U R' F R F' R U R' // Quina p/ lado, encaixa + U, sludge + encaixa
+    - Atrás // F R' F' R U2 R U' R' U R U' R' // Hedge + U2, resolve f2l
+    - Lado // U' R U2 R' U R' F R F' // Resolução padrão c/ sludge
+    - Nenhum // M' U' M U2 Rw U' Rw' // Encaixa meio c/ M, U2 + encaixa c/ Rw
