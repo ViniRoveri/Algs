@@ -1,1 +1,45 @@
 25, 27, 30, 32
+
+Caso 25 - Quina encaixada, meio do lado:
+    - Todos // R' F' R U R U' R' F //
+    - Quadrado Atrás // U' F' U F U R U' R' //
+    - Quadrado Frente // U' F' U' F U R U R' //
+    - Linha // U' R' F R F' R U R' //
+
+    - Frente // U2 Rw U2 R' U R U' R' U2 R U' Rw' //
+    - Atrás // Rw U Rw' U2 Rw U R' U2 R U' Rw' //
+    - Lado // U2 Rw U' Rw' R U' R' U' Rw U' Rw' //
+    - Nenhum // U R2 D Rw' U Rw D' R' U' R' //
+
+Caso 27 - Quina no lugar pra frente, meio do lado:
+    - Todos // R U' R' U R U' R' //
+    - Quadrado Atrás // R' D' R U' R' D R U R' F R F' //
+    - Quadrado Frente // R U' Rw' U R U' R' U' M' //
+    - Linha // R U' R2 F R2 U R' U' F' //
+
+    - Frente // U2 Rw U' Rw' U Rw U Rw' R U2 R' //
+    - Atrás // R U' R2 F R F' //
+    - Lado // U2 R U R' U R U R2' F R F' //
+    - Nenhum // U' R U' R2 Rw U' M U2 Rw U' Rw' //
+
+Caso 30 - Quina no lugar pro lado, meio do lado:
+    - Todos // R U R' U' R U R' //
+    - Quadrado Atrás // x U R' U' R U R' U' Lw //
+    - Quadrado Frente // U2 R' F R F' R U' R' U2 R U R' //
+    - Linha // U2 F' U F R U R //
+
+    - Frente // R U Rw' U' R U R2 Rw //
+    - Atrás // U' F R' F' R2 U R' //
+    - Lado // R U R' U Rw U' Rw' U' Rw U Rw' //
+    - Nenhum // R U R' U' R' D' Rw U Rw' D R2 U R' //
+
+Caso 32 - Par ruim ao contrário:
+    - Todos // U R U' R' U R U' R' U R U' R' //
+    - Quadrado Cima Esquerda // U' R U R' U' R U R2 F R F' //
+    - Quadrado Cima Direita // U' F R' F' R U' R U R' //
+    - Quadrado Baixo Direita // U2 R U2 R' U2 R U' R2 F R F' //
+    - Quadrado Baixo Esquerda // U R' F R F' U F' U' F //
+
+    - Vertical // U' F' U L' U2 L U' F //
+    - Horizontal // U R U' R' U R U' R2 F R F' //
+    - Nenhum // U2 Rw U2' Rw' U2 Rw U' Rw' U2 Rw U2' Rw' //

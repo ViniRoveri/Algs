@@ -1,1 +1,37 @@
 33, 34, 38, 39
+
+Caso 33 - Meio encaixado, quina pra frente:
+    - Todos // 
+    - Quadrado Cima Esquerda // 
+    - Quadrado Cima Direita // 
+    - Quadrado Baixo Direita // 
+    - Quadrado Baixo Esquerda // 
+
+    - Vertical // 
+    - Horizontal // 
+    - Nenhum // 
+
+Caso 34 - Meio encaixado, quina pro lado:
+    - Todos // 
+    - Quadrado Cima Esquerda // 
+    - Quadrado Cima Direita // 
+    - Quadrado Baixo Direita // 
+    - Quadrado Baixo Esquerda // 
+
+    - Vertical // 
+    - Horizontal // 
+    - Nenhum // 
+
+Caso 38 - Meio encaixado, quina embaixo pra frente:
+    - Todos // 
+    - Quadrado // 
+
+    - Linha // 
+    - Nenhum // 
+
+Caso 39 - Meio encaixado, quina embaixo pro lado:
+    - Todos // 
+    - Quadrado // 
+
+    - Linha // 
+    - Nenhum // 
