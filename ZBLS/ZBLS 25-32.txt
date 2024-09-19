@@ -1,24 +1,24 @@
 Caso 25 - Quina encaixada, meio do lado:
-    - Todos // 
-    - Quadrado Atrás // 
-    - Quadrado Frente // 
-    - Linha // 
+    - Todos // R' F' R U R U' R' F // Resolução padrão
+    - Quadrado Atrás // L D R' F R F' D' L' // L D, sludge, D' L'
+    - Quadrado Frente // U' F' U' F U R U R' // Meio p/ trás, tira quina c/ F, termina
+    - Linha // U' R' F R F' R U R' // Meio p/ trás, sludge + pesca
 
-    - Frente // 
-    - Atrás // 
-    - Lado // 
-    - Nenhum // 
+    - Frente // U2 Rw U2 R' U R U' R' U2 R U' Rw' // U2, tira p/ longe c/ início Rw, sexy invertido + U2, encaixa c/ fim Rw
+    - Atrás // Rw U Rw' U2 Rw U R' U2 R U' Rw' // Pesca c/ Rw, U2 + pesca c/ início Rw, U2 + encaixa c/ fim Rw
+    - Lado // U2 Rw U' Rw' R U' R' U' Rw U' Rw' // U2, encaixa c/ Rw, encaixa + U', encaixa c/ Rw
+    - Nenhum // U R2 D Rw' U Rw D' R' U' R' // Meio p/ frente, R2 D, pesca invertido atrás c/ Rw, D' + termina
 
 Caso 26 - Quina encaixada, meio na frente:
-    - Todos // 
-    - Quadrado Atrás // 
-    - Quadrado Frente // 
-    - Linha // 
+    - Todos // U2 R U' R' U' Rw U' R' U R U Rw' // U2, pesca invertido + U', resolve f2l
+    - Quadrado Atrás // U R U' R' U' F' U F // U + pesca invertido, termina
+    - Quadrado Frente // U R U R' U' F' U F // U + pesca, termina
+    - Linha // U R U' R' F R' F' R // Sexy invertido + hedge
 
-    - Direita // 
-    - Esquerda // 
-    - Atrás // 
-    - Nenhum // 
+    - Direita // R' D' R U' M' U Rw' D R // R' D' R, par p/ trás, M' U', Rw' D R
+    - Esquerda // R' D' R U M' U' Rw' D R // R' D' R, par p/ lado, M' U', Rw' D R
+    - Atrás // L F2 U F U' F2 L' // L F2, forma par, termina
+    - Nenhum // U R U R D Rw' U' Rw D' R2 // Meio p/ lado, R U R D, pesca c/ Rw atrás, termina
 
 Caso 27 - Quina no lugar pra frente, meio do lado:
     - Todos // 

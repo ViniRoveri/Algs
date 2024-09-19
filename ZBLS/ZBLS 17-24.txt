@@ -34,7 +34,7 @@ Caso 19 - Quina pra cima, meio do lado, quina embaixo:
     - Nenhum // U R U R2 Rw U' M U2 Rw U' Rw' // Meio p/ frente, pesca, emenda R2 Rw, encaixa meio, U2, termina
 
 Caso 20 - Quina pra cima, meio na frente, quina na direita:
-    - Todos // y' L' U2 L U' L' U L // Gira cubo c/ slot p/ trás, resolve f2l
+    - Todos // y' R' U2 R U' R' U R // Gira cubo c/ slot p/ trás, resolve f2l
     - Quadrado Atrás // U' S R U2 R' U' R U R' U S' // Meio p/ esquerda, S, resolve f2l, U S'
     - Quadrado Frente // R U' R2 F R F' R U' R' // Resolução padrão
     - Linha // U R' U' R' F R F' U R2 U' R' // Meio p/ esquerda, tira atrás s/ abaixar, sludge, encaixa atrás, emenda encaixar frente
