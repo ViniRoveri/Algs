@@ -21,26 +21,26 @@ Caso 26 - Quina encaixada, meio na frente:
     - Nenhum // U R U R D Rw' U' Rw D' R2 // Meio p/ lado, R U R D, pesca c/ Rw atrás, termina
 
 Caso 27 - Quina no lugar pra frente, meio do lado:
-    - Todos // 
-    - Quadrado Atrás // 
-    - Quadrado Frente // 
-    - Linha // 
+    - Todos // R U' R' U R U' R' // Resolução padrão
+    - Quadrado Atrás // R' D' R U' R' D R U R' F R F' // R' D', pesca invertido, D R, termina
+    - Quadrado Frente // R U' Rw' U R U' R' U' M' // Pesca invertido c/ fim Rw, encaixa par, termina
+    - Linha // R U' R2 F R2 U R' U' F' // Resolução padrão c/ fim sludge, emenda sexy
 
-    - Frente // 
-    - Atrás // 
-    - Lado // 
-    - Nenhum // 
+    - Frente // R U' R' U R U R' U2 R' F R F' // Pesca invertido, resolve ZBLS
+    - Atrás // R U' R2 F R F' // Resolução padrão c/ fim sludge.
+    - Lado // U2 R U R' U R U R2 F R F' // U2, pesca, resolve f2l c/ fim sludge
+    - Nenhum // U' R U' R2 Rw U' M U2 Rw U' Rw' // Meio p/ trás, pesca invertido, emenda R2 Rw, U' M, termina
 
 Caso 28 - Quina no lugar pro lado, meio na frente:
-    - Todos // 
-    - Quadrado Atrás // 
-    - Quadrado Frente // 
-    - Linha // 
+    - Todos // y' R' U R U' R' U R y // Resolução padrão
+    - Quadrado Atrás // R U2 Lw U' R' U Lw' // Tira pra longe s/ abaixar, resolve f2l c/ Lw
+    - Quadrado Frente // R U2 R F' U2 F // Tira p/ longe, encaixa de longe c/ F
+    - Linha // R U R' U F' U2 F // Pesca + U, encaixa de longe c/ F
 
-    - Direita // 
-    - Esquerda // 
-    - Atrás // 
-    - Nenhum // 
+    - Direita // R U R' F R U R' U' F2 U' F // Pesca, F + sexy + F2, termina
+    - Esquerda // F' U2 Rw U' Rw' F2 // F' U2, pesca invertido c/ Rw, termina
+    - Atrás // R U2 R' U' F R U R' U' F2 U' F // Tira p/ longe + U', F + sexy + F2, termina
+    - Nenhum // R U2 R2 F R F2 U2 F // Tira p/ longe, emenda sludge, emenda encaixar de longe c/ F
 
 Caso 29 - Quina no lugar pra frente, meio na frente:
     - Todos // 
