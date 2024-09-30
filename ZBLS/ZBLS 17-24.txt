@@ -59,7 +59,7 @@ Caso 22 - Quina pra cima, meio na frente, quina na esquerda:
     - Todos // y' R' U' R U' R' U R // Gira cubo c/ slot p/ trás, resolve f2l
     - Quadrado Atrás // F' Rw U' Rw' F2 // F' + sludge no L c/ fim F2
     - Quadrado Frente // U F R' F' R U' F R' F' R // Meio p/ esquerda, hedge + U' + hedge
-    - Linha // U2 R U R' F' U' F // Pesca + pesca c/ F
+    - Linha // R U R' F' U' F // Pesca + pesca c/ F
 
     - Direita // U2 Rw U' Rw' U2 Rw U Rw' // U2 + resolução padrão
     - Esquerda // R' F R F' R U R2 F R F' // Sludge, resolve f2l c/ fim sludge 
