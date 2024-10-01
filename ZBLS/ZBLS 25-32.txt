@@ -20,7 +20,7 @@ Caso 26 - Quina encaixada, meio na frente:
     - Atrás // L F2 U F U' F2 L' // L F2, forma par, termina
     - Nenhum // U R U R D Rw' U' Rw D' R2 // Meio p/ lado, R U R D, pesca c/ Rw atrás, termina
 
-Caso 27 - Quina no lugar pra frente, meio do lado:
+Caso 27 - Quina no lugar virada c/ meio atrás, meio do lado:
     - Todos // R U' R' U R U' R' // Resolução padrão
     - Quadrado Atrás // R' D' R U' R' D R U R' F R F' // R' D', pesca invertido, D R, termina
     - Quadrado Frente // R U' Rw' U R U' R' U' M' // Pesca invertido c/ fim Rw, encaixa par, termina
@@ -31,7 +31,7 @@ Caso 27 - Quina no lugar pra frente, meio do lado:
     - Lado // U2 R U R' U R U R2 F R F' // U2, pesca, resolve f2l c/ fim sludge
     - Nenhum // U' R U' R2 Rw U' M U2 Rw U' Rw' // Meio p/ trás, pesca invertido, emenda R2 Rw, U' M, termina
 
-Caso 28 - Quina no lugar pro lado, meio na frente:
+Caso 28 - Quina no lugar virada c/ meio atrás, meio na frente:
     - Todos // y' R' U R U' R' U R y // Resolução padrão
     - Quadrado Atrás // R U2 Lw U' R' U Lw' // Tira pra longe s/ abaixar, resolve f2l c/ Lw
     - Quadrado Frente // R U2 R F' U2 F // Tira p/ longe, encaixa de longe c/ F
@@ -42,18 +42,18 @@ Caso 28 - Quina no lugar pro lado, meio na frente:
     - Atrás // R U2 R' U' F R U R' U' F2 U' F // Tira p/ longe + U', F + sexy + F2, termina
     - Nenhum // R U2 R2 F R F2 U2 F // Tira p/ longe, emenda sludge, emenda encaixar de longe c/ F
 
-Caso 29 - Quina no lugar pra frente, meio na frente:
-    - Todos // R' F R F' U R U' R' //
-    - Quadrado Atrás // R' F R F' R' F R F' //
-    - Quadrado Frente // R' F R F' U R U R' U2 R' F R F' //
-    - Linha // U2 R U' R' F' U' F //
+Caso 29 - Quina no lugar virada c/ meio do lado, meio na frente:
+    - Todos // R' F R F' U R U' R' // Resolução padrão
+    - Quadrado Atrás // R' F R F' R' F R F' // Duplo sludge
+    - Quadrado Frente // R' F R F' U R U R' U2 R' F R F' // Sludge + resolve ZBLS
+    - Linha // U2 R U' R' F' U' F // U2, pesca invertido, termina
 
-    - Direita // U R2 D Rw' U' Rw D' R2' U' R U2 R' //
-    - Esquerda // U R' F R F2 U' F //
-    - Atrás // U' R U R' U' Rw U' Rw' U2 Rw U Rw' //
-    - Nenhum // U2 R U' R' F' U' L' U' L U F // 
+    - Direita // U R2 D Rw' U' Rw D' R2 U' R U2 R' // Meio p/ esq., R2 D, peca c/ Rw atrás, D' R2, termina
+    - Esquerda // U R' F R F2 U' F // Meio p/ esq., sludge c/ fim F2, termina
+    - Atrás // U' R U R' U' Rw U' Rw' U2 Rw U Rw' // Meio p/ dir., sexy, resolve f2l
+    - Nenhum // U2 R U' R' F' U' L' U' L U F // U2, pesca invertido, resolve ZBLS
 
-Caso 30 - Quina no lugar pro lado, meio no lado:
+Caso 30 - Quina no lugar virada c/ meio do lado, meio no lado:
     - Todos // R U R' U' R U R' //
     - Quadrado Atrás // y L F' L' F L F' L' F //
     - Quadrado Frente // U2 R' F R F' R U' R' U2 R U R' //
@@ -84,4 +84,4 @@ Caso 32 - Par ruim ao contrário:
 
     - Linha pra Cima // U' F' U L' U2 L U' F //
     - Linha pro Lado // U R U' R' U R U' R2 F R F' //
-    - Nenhum // U2' R' F R F' U2' Rw U' Rw' U2' Rw U Rw' //
+    - Nenhum // U2 R' F R F' U2 Rw U' Rw' U2 Rw U Rw' //
