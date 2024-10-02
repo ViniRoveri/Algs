@@ -54,15 +54,15 @@ Caso 29 - Quina no lugar virada c/ meio do lado, meio na frente:
     - Nenhum // U2 R U' R' F' U' L' U' L U F // U2, pesca invertido, resolve ZBLS
 
 Caso 30 - Quina no lugar virada c/ meio do lado, meio no lado:
-    - Todos // R U R' U' R U R' //
-    - Quadrado Atrás // y L F' L' F L F' L' F //
-    - Quadrado Frente // U2 R' F R F' R U' R' U2 R U R' //
-    - Linha // U2 F' U F R U R' //
+    - Todos // R U R' U' R U R' // Resolução padrão
+    - Quadrado Atrás // y L F' L' F L F' L' F // Gira cubo c/ slot p/ lado, duplo sludge
+    - Quadrado Frente // U2 R' F R F' R U' R' U2 R U R' // U2, sludge, resolve f2l
+    - Linha // U2 F' U F R U R' // U2, encaixa c/ F, termina
 
-    - Frente // R U Rw' U' R U R2 Rw // 
-    - Atrás // U' F R' F' R2 U R' //
-    - Lado // R U R' U Rw U' Rw' U' Rw U Rw' // 
-    - Nenhum // R U R' U' R' D' Rw U Rw' D R2 U R' //
+    - Frente // R U Rw' U' R U R2 Rw // Pesca c/ fim Rw', U' + pesca c/ fim R2, termina
+    - Atrás // U' F R' F' R2 U R' // Meio p/ trás, hedge, emenda pesca
+    - Lado // R U R' U Rw U' Rw' U' Rw U Rw' // Pesca + U, resolve ZBLS
+    - Nenhum // R U R' U' R U' R2 F R F' U2 R' F R F' // Sexy, resolve ZBLS
 
 Caso 31 - Par certo ao contrário:
     - Cruz pra Cima // R U' R' F' U2 F //
