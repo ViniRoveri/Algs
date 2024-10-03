@@ -65,15 +65,15 @@ Caso 30 - Quina no lugar virada c/ meio do lado, meio no lado:
     - Nenhum // R U R' U' R U' R2 F R F' U2 R' F R F' // Sexy, resolve ZBLS
 
 Caso 31 - Par certo ao contrário:
-    - Cruz pra Cima // R U' R' F' U2 F //
-    - Cruz pra Direita // U' R' F R F' R U' R' //
-    - Cruz pra Baixo // R U2 R' U' F R' F' R //
-    - Cruz pra Esquerda // F' U F R U2 R' //
+    - Cruz pra Cima // R U' R' F' U2 F // Pesca invertido, encaixa de longe c/ F
+    - Cruz pra Direita // U' R' F R F' R U' R' // Resolução padrão
+    - Cruz pra Baixo // R U2 R' U' F R' F' R // Tira p/ longe, U' + hedge
+    - Cruz pra Esquerda // F' U F R U2 R' // Encaixa c/ F, encaixa de longe
 
-    - Cima // Rw U' Rw' U M' U R U Rw' //
-    - Baixo // R U2 R2 D' Rw U' Rw' D R //
-    - Direita // U' R' F R F' U' R' F R F //
-    - Esquerda // Rw U' R' U' M U' Rw U Rw' //
+    - Cima // Rw U' Rw' U M' U R U Rw' // Pesca invertido c/ Rw, U M' U, pesca c/ fim Rw
+    - Baixo // R U2 R2 D' Rw U' Rw' D R // Tira p/ longe, emenda R2 D', encaixa c/ Rw, D R
+    - Direita // U' R' F R F' U' R' F R F' // Resolução padrão c/ fim sludge
+    - Esquerda // Rw U' R' U' M U' Rw U Rw' // Pesca invertido c/ começo Rw, U' M U', pesca c/ Rw
 
 Caso 32 - Par ruim ao contrário:
     - Todos // U R U' R' U R U' R' U R U' R' //
