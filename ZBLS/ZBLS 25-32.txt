@@ -76,12 +76,12 @@ Caso 31 - Par certo ao contrário:
     - Esquerda // Rw U' R' U' M U' Rw U Rw' // Pesca invertido c/ começo Rw, U' M U', pesca c/ Rw
 
 Caso 32 - Par ruim ao contrário:
-    - Todos // U R U' R' U R U' R' U R U' R' //
-    - Quadrado Cima Esquerda // U' R U R' U' R U R2 F R F' //
-    - Quadrado Cima Direita // U' F R' F' R U' R U R' //
-    - Quadrado Baixo Direita // U2 R U2 R' U2 R U' R2 F R F' //
-    - Quadrado Baixo Esquerda // U2 R' F R F2 Rw U' Rw' F2 //
+    - Todos // U R U' R' U R U' R' U R U' R' // Resolução padrão
+    - Quadrado Cima Esquerda // U' R U R' U' R U R2 F R F' // Quina p/ trás, duplo sexy, emenda sludge
+    - Quadrado Cima Direita // U' F R' F' R U' R U R' // Quina p/ trás, hedge, termina
+    - Quadrado Baixo Direita // U2 R U2 R' U2 R U' R2 F R F' // U2 + encaixa de longe + U2, resolve f2l c/ fim sludge
+    - Quadrado Baixo Esquerda // U2 R' F R F2 Rw U' Rw' F2 // U2, sludge c/ fim F2, sludge no L c/ fim F2
 
-    - Linha pra Cima // U' F' U L' U2 L U' F //
-    - Linha pro Lado // U R U' R' U R U' R2 F R F' //
-    - Nenhum // U2 R' F R F' U2 Rw U' Rw' U2 Rw U Rw' //
+    - Linha pra Cima // U' F' U L' U2 L U' F // Quina p/ trás, F' U, junta par, termina
+    - Linha pro Lado // U R U' R' U R U' R2 F R F' // Resolução padrão c/ fim sludge
+    - Nenhum // U2 R' F R F' U2 Rw U' Rw' U2 Rw U Rw' // U2 + sludge + U2, resolve f2l
