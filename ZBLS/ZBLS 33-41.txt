@@ -16,7 +16,7 @@ Caso 34 - Meio encaixado, quina pro lado:
     - Quadrado Cima Esquerda // U R U' R' U' F' U F R U R' // Sexy invertido, U' + encaixa c/ F, termina
     - Quadrado Cima Direita // U' F' U' L' U' L U2 F // Quina p/ trás, F' U', termina
     - Quadrado Baixo Direita // R U R' U2 R' F R F' R U R' // Pesca + U2, sludge + pesca
-    - Quadrado Baixo Esquerda // U F' U L' U L U' F // Quina p/ lado, F', pesca invertido no L, termina
+    - Quadrado Baixo Esquerda // U F' U L' U L U' F // Quina p/ lado, F' U, pesca invertido no L, termina
 
     - Linha pra Cima // Rw U Rw' U' R U R' Rw U' Rw' // Sexy c/ Rw, pesca, termina
     - Linha pro Lado // R U' R' U' R' F R F' U R U R' // Pesca invertido + U', sludge, termina
