@@ -55,10 +55,10 @@ Caso 38 - Meio encaixado, quina no lugar pra frente:
     - Nenhum // R U' R' U2 R2 D Rw' U' Rw D' R' U' R' // Pesca invertido + U2, resolve ZBLS
 
 Caso 39 - Meio encaixado, quina no lugar pro lado:
-    - Todos // R U2 R' U R U' R' U R U R' //
-    - Quadrado Baixo Direita // R U' R' U R U2 R2 F R F //
-    - Linha pra Cima // y F R U2 R' U R U2 R' U F' //
-    - Nenhum // R U R D Rw' U Rw D' R2 U2 R U R' //
+    - Todos // R U2 R' U R U' R' U R U R' // Resolução padrão
+    - Quadrado Baixo Direita // R U' R' U R U2 R2 F R F' // Pesca invertido, U + resolve f2l c/ fim sludge
+    - Linha pra Cima // y F R U2 R' U R U2 R' U F' // Gira cubo p/ lado do slot, F + tira p/ longe, U + tira p/ longe, termina
+    - Nenhum // R U R D Rw' U Rw D' R2 U2 R U R' // R U R D, pesca invertido atrás, D' R2, termina
 
 Caso 40 - Meio encaixado ao contrário, quina no lugar pra frente:
     - Cruz pra Cima // F2 Rw U Rw' F U2 R U R' //
